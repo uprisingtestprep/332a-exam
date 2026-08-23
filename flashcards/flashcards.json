@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "alters_hair_colour",
+    "front": "What is a tertiary colour on the colour wheel?",
+    "back": "A tertiary colour is created by mixing a primary colour with a neighbouring secondary colour, such as red-orange or blue-green. It sits between the two parent colours on the wheel. Tertiary colours give a colourist finer control over warmth and coolness than the six primary and secondary colours alone."
+  },
+  {
+    "id": 2,
+    "domain": "cuts_hair",
+    "front": "What is the shank of a haircutting shear?",
+    "back": "The shank is the section of each blade connecting the finger or thumb grip to the actual cutting edge. It gives the blade its length and leverage. Its design affects how the shear balances and feels in the hand during a long service."
+  },
+  {
+    "id": 3,
+    "domain": "chemical_texture_services",
+    "front": "What does a permanent wave change about hair structure?",
+    "back": "It breaks and reforms the disulfide bonds that hold the cortex together. These bonds form between two sulfur atoms on neighbouring protein chains and give hair its strength and natural shape."
+  },
+  {
+    "id": 4,
+    "domain": "styles_hair",
+    "front": "How is tension created during blow drying?",
+    "back": "Tension is created by holding a section of hair taut with a brush while the airflow follows behind it. Consistent tension turns a wet, shapeless section into a smooth and controlled one."
+  },
+  {
+    "id": 5,
+    "domain": "common_occupational_skills",
+    "front": "What does sanitation remove from a salon implement?",
+    "back": "Sanitation removes visible debris such as hair, skin cells, and product residue from a tool's surface. It always happens before disinfection. Organic material left behind can shield microorganisms from a disinfectant."
+  },
+  {
+    "id": 6,
+    "domain": "hair_and_scalp_care",
+    "front": "What are the three layers of a hair strand?",
+    "back": "The cuticle (outer layer), the cortex (middle bulk of the hair), and the medulla (a loose central core). The medulla is not present in all hair, especially finer types, and plays little to no role in salon services."
+  },
+  {
+    "id": 7,
+    "domain": "salon_operations",
+    "front": "What trade code identifies hairstyling under the Red Seal Program?",
+    "back": "Hairstyling is designated trade code 332A. This code identifies the trade consistently across every province and territory that participates in the Red Seal Program, including on exam records and official certification documents."
+  },
+  {
+    "id": 8,
+    "domain": "specialized_services",
+    "front": "What is a wig topper or crown piece used for?",
+    "back": "A topper or crown piece is a small hair addition that clips or lightly adheres over an area of diffuse thinning, most often the crown. It adds volume without the weight of a full extension method. It suits clients whose surrounding hair is too fragile to carry a bonded or beaded service."
+  },
+  {
+    "id": 9,
+    "domain": "alters_hair_colour",
+    "front": "Why is porosity important in a colour formulation decision?",
+    "back": "Porosity describes how easily the hair shaft absorbs and holds moisture and colour molecules. Highly porous hair often processes faster and can grab colour more intensely, while low porosity hair resists penetration. A stylist adjusts processing time and product choice based on the porosity they observe."
+  },
+  {
+    "id": 10,
+    "domain": "cuts_hair",
+    "front": "What does a hollow-ground blade mean on a shear?",
+    "back": "A hollow-ground blade is ground on its inner surface to a concave curve, which distinguishes it from a convex-edge blade that is ground with a rounded outward bevel. This grind lets the blade close with minimal resistance and produce an extremely clean pass through the hair. It requires more careful professional sharpening than a simple bevel."
+  },
+  {
+    "id": 11,
+    "domain": "chemical_texture_services",
+    "front": "What are disulfide bonds, and why do they matter for a perm?",
+    "back": "Disulfide bonds form between two sulfur atoms on adjacent protein chains in the cortex. A perm breaks them with a reducing agent and reforms them in a new shape with a neutralizer."
+  },
+  {
+    "id": 12,
+    "domain": "styles_hair",
+    "front": "What result does insufficient tension have while blow drying?",
+    "back": "Insufficient tension leaves the cuticle rough and the finished hair less shiny. The section stays undefined instead of becoming smooth and controlled."
+  },
+  {
+    "id": 13,
+    "domain": "common_occupational_skills",
+    "front": "What does a DIN on a disinfectant label confirm?",
+    "back": "A Drug Identification Number confirms Health Canada has reviewed the product for the specific claims on its label. Salons rely on DIN registered, hospital grade disinfectants for implement care. It is not a general household cleaning product marker."
+  },
+  {
+    "id": 14,
+    "domain": "hair_and_scalp_care",
+    "front": "What does the cuticle do?",
+    "back": "The cuticle is the outer layer of overlapping, scale-like cells that lie flat like shingles. It controls shine and how easily moisture and chemicals enter the hair, since a tight cuticle slows penetration and a raised cuticle speeds it up."
+  },
+  {
+    "id": 15,
+    "domain": "salon_operations",
+    "front": "Who develops the Red Seal Program standard?",
+    "back": "The Red Seal Program is developed jointly by the provinces and territories with the federal government, coordinated through the Canadian Council of Directors of Apprenticeship. It creates one common trade standard rather than each jurisdiction working in isolation."
+  },
+  {
+    "id": 16,
+    "domain": "specialized_services",
+    "front": "Why should a stylist never brush wet hair extensions harshly?",
+    "back": "Hair is more elastic and prone to stretching when wet, and bonded or wefted attachment points come under extra stress during rough brushing. Gentle detangling from the ends upward, ideally once hair is at least partly dry, protects both the extensions and the natural hair. This habit also extends the wear life of the installation."
+  },
+  {
+    "id": 17,
+    "domain": "alters_hair_colour",
+    "front": "What is the cortex, and why does it matter in oxidative colour?",
+    "back": "The cortex is the middle layer of the hair shaft, beneath the cuticle, where the hair's natural pigment lives. Permanent colour must reach the cortex to lift and deposit pigment. The cuticle has to be opened first so the colour and developer molecules can travel inward."
+  },
+  {
+    "id": 18,
+    "domain": "cuts_hair",
+    "front": "What is scissor-over-comb technique?",
+    "back": "Scissor-over-comb is a method of cutting where a comb is held close to the head and the shear follows along the comb's edge to remove length in short, controlled strokes. It is commonly used for close, precise work around the ears and nape. It requires a shorter shear for better control."
+  },
+  {
+    "id": 19,
+    "domain": "chemical_texture_services",
+    "front": "How does a permanent wave create curl?",
+    "back": "It does not create curl out of nothing. It rearranges bonds that are already in the hair so the hair holds a new curl pattern once the reducing and oxidizing steps are complete."
+  },
+  {
+    "id": 20,
+    "domain": "styles_hair",
+    "front": "What is the risk of excessive tension on fragile or chemically treated hair?",
+    "back": "Excessive tension on fragile or chemically treated hair increases the risk of breakage where the brush grips the section."
+  },
+  {
+    "id": 21,
+    "domain": "common_occupational_skills",
+    "front": "Why are quaternary ammonium compounds common in salons?",
+    "back": "Quats are effective against a broad range of pathogens while being gentle enough not to damage metal tools with regular use. They are the most common salon disinfectant category. Contact time follows the manufacturer's label directions."
+  },
+  {
+    "id": 22,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the cortex responsible for?",
+    "back": "The cortex makes up the bulk of the hair's mass and gives it strength, elasticity, and natural colour. It holds the pigment granules called melanin and is the layer that permanent colour, relaxing, and permanent waving alter."
+  },
+  {
+    "id": 23,
+    "domain": "salon_operations",
+    "front": "Backbar product versus retail product",
+    "back": "Backbar product is stock a salon uses to perform services, such as colour and developer. Retail product is stock sold directly to clients to take home, such as shampoo and styling cream. Salons track and order each category separately."
+  },
+  {
+    "id": 24,
+    "domain": "specialized_services",
+    "front": "What is an integration hairpiece?",
+    "back": "An integration piece is woven through a client's existing hair over a thinning area so her own hair blends with the piece and disguises the smaller base underneath. It suits localized thinning rather than extensive hair loss. It is lighter weight than a full wig cap."
+  },
+  {
+    "id": 25,
+    "domain": "alters_hair_colour",
+    "front": "What does the term virgin hair mean in a salon context?",
+    "back": "Virgin hair is hair that has never received any chemical service, including colour, lightening, or a chemical texture service. It behaves more predictably than previously processed hair because its cuticle and cortex have not been altered. A stylist often formulates more conservatively on hair with an unknown or heavily processed history."
+  },
+  {
+    "id": 26,
+    "domain": "cuts_hair",
+    "front": "Why is a shear's tension screw checked regularly?",
+    "back": "The tension screw controls how freely the two blades open and close against each other. If it is too loose, the blades do not meet cleanly and can bend or fold fine hairs instead of cutting them. If it is too tight, the stylist has to force the blades, straining the hand."
+  },
+  {
+    "id": 27,
+    "domain": "chemical_texture_services",
+    "front": "What does the reducing agent in a permanent wave break?",
+    "back": "The reducing agent adds hydrogen to the disulfide bonds and splits them apart into separate sulfur groups. This softens the cortex so the hair can be reshaped around a rod."
+  },
+  {
+    "id": 28,
+    "domain": "styles_hair",
+    "front": "Which direction should the nozzle airflow travel for a sleek, shiny finish?",
+    "back": "The airflow should travel from the roots toward the ends, following the same direction as the cuticle scales. This smooths the cuticle down and produces more shine and less frizz."
+  },
+  {
+    "id": 29,
+    "domain": "common_occupational_skills",
+    "front": "What kind of steam process happens inside an autoclave?",
+    "back": "An autoclave uses pressurized steam at a controlled temperature for a set cycle to sterilize implements. This destroys all forms of microbial life, including bacterial spores. It is reserved for tools with real blood contact risk."
+  },
+  {
+    "id": 30,
+    "domain": "hair_and_scalp_care",
+    "front": "What protein is hair made mostly of, and which amino acid is key to its bonds?",
+    "back": "Hair is made mostly of keratin, a fibrous protein also found in skin and nails. Keratin is rich in the amino acid cysteine, which contains sulfur and is key to the disulfide bonds that hold the hair's shape."
+  },
+  {
+    "id": 31,
+    "domain": "salon_operations",
+    "front": "What is a service menu organized by?",
+    "back": "A salon's service menu is typically organized by category, such as haircuts, colour services, chemical texture services, and styling. Pricing within each category reflects product cost, service time, stylist experience, and overhead."
+  },
+  {
+    "id": 32,
+    "domain": "specialized_services",
+    "front": "Why is a hot towel used before a straight razor shave?",
+    "back": "A hot towel softens the beard hair and opens the pores before the shave begins. Softer hair cuts more cleanly and with less resistance against the blade. Open pores also help the skin tolerate the closeness of the shave with less irritation afterward."
+  },
+  {
+    "id": 33,
+    "domain": "alters_hair_colour",
+    "front": "What is a strand test, and when is it used?",
+    "back": "A strand test applies the mixed formula to a small section of hair to check how it is developing before committing to the full head. It is used during lightening and colour services to confirm the level and tone are on track. Checking a strand partway through processing lets the stylist adjust or stop before a mistake reaches the whole head."
+  },
+  {
+    "id": 34,
+    "domain": "cuts_hair",
+    "front": "What is point cutting?",
+    "back": "Point cutting is a technique where the tips of the shear blades are angled into the ends of the hair, cutting small, irregular notches into the perimeter instead of a single straight line. It softens a blunt edge and adds texture without removing significant length. It is often used as a finishing step."
+  },
+  {
+    "id": 35,
+    "domain": "chemical_texture_services",
+    "front": "Which chemical is most often used as the reducing agent in a permanent wave?",
+    "back": "Ammonium thioglycolate, often called thio for short. It is an alkaline solution that adds hydrogen to the disulfide bonds to break them."
+  },
+  {
+    "id": 36,
+    "domain": "styles_hair",
+    "front": "What happens if you blow air from the ends back toward the scalp?",
+    "back": "Blowing air from the ends back toward the scalp lifts the cuticle and roughens the surface. It is done deliberately to add texture or volume, but it is the wrong technique for a sleek finish."
+  },
+  {
+    "id": 37,
+    "domain": "common_occupational_skills",
+    "front": "Name two single use salon items that are never reused.",
+    "back": "Neck strips and wax applicators are discarded after a single client regardless of how clean they appear afterward. Emery boards are another common example. These items cannot be effectively sanitized once used."
+  },
+  {
+    "id": 38,
+    "domain": "hair_and_scalp_care",
+    "front": "What is a disulfide bond?",
+    "back": "A disulfide bond, also called a disulfide bridge, is a strong chemical bond linking two cysteine units on neighbouring protein chains. These bonds are the main reason hair holds its shape and resists stretching or breaking."
+  },
+  {
+    "id": 39,
+    "domain": "salon_operations",
+    "front": "Why is corrective colour often quoted after consultation rather than priced on the menu?",
+    "back": "The actual time and product a corrective colour service needs cannot be known until the stylist assesses the hair in person. Quoting only after consultation avoids giving the client an inaccurate fixed price upfront."
+  },
+  {
+    "id": 40,
+    "domain": "specialized_services",
+    "front": "What does an alum block do at the end of a straight razor shave?",
+    "back": "An alum block is applied to freshly shaved skin to help close the pores and disinfect any small nicks. It also has a mild astringent effect that reduces redness and irritation. It is a standard aftercare step following a traditional straight razor service."
+  },
+  {
+    "id": 41,
+    "domain": "alters_hair_colour",
+    "front": "What does the term overprocessed mean when describing hair?",
+    "back": "Overprocessed hair has been exposed to more chemical service, heat, or repeated colour than its structure can safely tolerate. It often feels weak, overly porous, or breaks easily when stretched. Recognizing overprocessed hair before a new service helps the stylist choose a gentler formula or recommend treatment first."
+  },
+  {
+    "id": 42,
+    "domain": "cuts_hair",
+    "front": "What is slide cutting?",
+    "back": "Slide cutting is a razor or shear technique where the blade is drawn along the length of the strand while closing gradually, removing hair progressively rather than in one clean snip. It produces soft, graduated texture through mid-lengths and ends. It requires firm, even tension to control the result."
+  },
+  {
+    "id": 43,
+    "domain": "chemical_texture_services",
+    "front": "What does the reducing agent do to the hair's cortex?",
+    "back": "Once the disulfide bonds are broken, the cortex softens and becomes pliable enough to be reshaped around a perm rod. The hair is not damaged by this step alone; it is in a temporary, unstable state."
+  },
+  {
+    "id": 44,
+    "domain": "styles_hair",
+    "front": "What controls the amount of root lift in a blow dried style?",
+    "back": "The angle at which the brush is held against the head controls root lift. Lifting the brush up and away from the scalp builds volume, while directing it down and close to the head flattens the root."
+  },
+  {
+    "id": 45,
+    "domain": "common_occupational_skills",
+    "front": "What does the WHMIS acronym stand for?",
+    "back": "WHMIS stands for the Workplace Hazardous Materials Information System. It is the Canadian framework for communicating chemical hazards on the job. The current version, WHMIS 2015, aligns with the Globally Harmonized System used internationally."
+  },
+  {
+    "id": 46,
+    "domain": "hair_and_scalp_care",
+    "front": "How do hydrogen and salt bonds differ from disulfide bonds?",
+    "back": "Hydrogen and salt bonds are weaker bonds that break and reform temporarily whenever hair is wet and then dried. This is the basis of a wet set or a blow dry, and unlike disulfide bonds they cannot permanently change the hair's structure."
+  },
+  {
+    "id": 47,
+    "domain": "salon_operations",
+    "front": "What does FIFO mean for salon stock rotation?",
+    "back": "FIFO means first in, first out, placing older stock where it will be used before newer stock. This reduces waste from products expiring unused, such as colour or developer sitting past its shelf life."
+  },
+  {
+    "id": 48,
+    "domain": "specialized_services",
+    "front": "What is the purpose of a pre-shave oil?",
+    "back": "Pre-shave oil is applied before lathering to create a thin protective layer between the razor and the skin. It helps the blade glide more smoothly and reduces friction during the shave. It is applied under the lather, not as a replacement for it."
+  },
+  {
+    "id": 49,
+    "domain": "alters_hair_colour",
+    "front": "What is a base colour in a colour formula?",
+    "back": "The base colour is the primary shade in a formula that establishes the overall level and dominant tone before any additional toning pigment is blended in. It forms the foundation the rest of the formula builds on. Selecting the correct base is the first decision in most colour formulations."
+  },
+  {
+    "id": 50,
+    "domain": "cuts_hair",
+    "front": "What is the difference between honing and sharpening a razor?",
+    "back": "Honing realigns and refines an existing edge using a fine abrasive stone, restoring sharpness without removing much metal. Sharpening removes metal to create a new edge once honing can no longer restore performance. Both are part of routine razor maintenance for safety and clean cutting."
+  },
+  {
+    "id": 51,
+    "domain": "chemical_texture_services",
+    "front": "What role does the perm rod play in the chemistry of a permanent wave?",
+    "back": "The rod is a physical mould and does not chemically do anything. The bonds reformed by the neutralizer take the shape the hair is sitting in at that moment, so accurate wrapping matters as much as the chemistry."
+  },
+  {
+    "id": 52,
+    "domain": "styles_hair",
+    "front": "What is a small diameter round brush best used for?",
+    "back": "A small diameter round brush wraps hair into a tight curve. It is used for short to medium hair or for tight curl definition."
+  },
+  {
+    "id": 53,
+    "domain": "common_occupational_skills",
+    "front": "What are the three pillars WHMIS 2015 rests on?",
+    "back": "WHMIS 2015 rests on labels, safety data sheets, and worker education. Every hazardous product needs a supplier label with a signal word, pictograms, and hazard statements. Employers must also provide training on the specific products used."
+  },
+  {
+    "id": 54,
+    "domain": "hair_and_scalp_care",
+    "front": "Which bonds do a permanent wave or chemical relaxer target?",
+    "back": "They target disulfide bonds. An alkaline or reducing chemical breaks them so the hair can be reshaped, and an oxidizing neutralizer reforms new bonds in the new shape."
+  },
+  {
+    "id": 55,
+    "domain": "salon_operations",
+    "front": "What is a strand test used for?",
+    "back": "A strand test checks how hair reacts to a chemical formula, such as lightener, before it is applied to the whole head. It helps predict processing time and outcome and reduces the risk of an unexpected result or damage."
+  },
+  {
+    "id": 56,
+    "domain": "specialized_services",
+    "front": "Why should ends be tucked in or sealed during protective styling?",
+    "back": "Exposed ends are more prone to friction, snagging, and split ends during the wear period of a protective style. Tucking or sealing them reduces breakage and helps the ends retain moisture. This is one of the simple habits that makes a protective style genuinely protective rather than just decorative."
+  },
+  {
+    "id": 57,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by lift in hair colouring?",
+    "back": "Lift refers to how much a colour service lightens the hair's natural level using an oxidative reaction. The amount of lift achieved depends mainly on developer strength, processing time, and the hair's own characteristics. A formula can provide lift, deposit, or both depending on the product category chosen."
+  },
+  {
+    "id": 58,
+    "domain": "cuts_hair",
+    "front": "What is a disposable razor guard used for?",
+    "back": "A disposable guard is a thin protective shield that fits over a razor blade to control how much hair is exposed to the edge during certain cutting techniques. It reduces the risk of cutting too deep or nicking the skin. Guards are replaced regularly along with the blade."
+  },
+  {
+    "id": 59,
+    "domain": "chemical_texture_services",
+    "front": "What does the neutralizer (oxidizing agent) do in a permanent wave?",
+    "back": "It adds oxygen back to the sulfur groups, reforming the disulfide bonds. Because the hair is still wrapped around the rod, the bonds reform in the new curled position."
+  },
+  {
+    "id": 60,
+    "domain": "styles_hair",
+    "front": "What is a large barrel round brush best used for?",
+    "back": "A large barrel round brush produces a looser bend or a soft wave. It suits longer hair."
+  },
+  {
+    "id": 61,
+    "domain": "common_occupational_skills",
+    "front": "What two words can appear as a WHMIS signal word?",
+    "back": "A supplier label carries a signal word of either Danger or Warning, depending on the severity of the hazard. This sits alongside pictograms and hazard statements. The signal word helps a worker judge the level of caution needed."
+  },
+  {
+    "id": 62,
+    "domain": "hair_and_scalp_care",
+    "front": "What are the three phases of the hair growth cycle?",
+    "back": "Anagen, catagen, and telogen, which are the active growth phase, the short transitional phase, and the resting phase. At any time different follicles are at different points in the cycle."
+  },
+  {
+    "id": 63,
+    "domain": "salon_operations",
+    "front": "Why does a salon keep a disinfection log?",
+    "back": "A disinfection log documents that implements are cleaned and disinfected consistently between clients. Public health inspectors review it to confirm the salon is meeting sanitation and infection control expectations."
+  },
+  {
+    "id": 64,
+    "domain": "specialized_services",
+    "front": "What is the difference between a wefted cap and a monofilament cap?",
+    "back": "A wefted cap is built from machine-made rows of hair sewn onto an elastic base, making it lightweight and affordable. A monofilament cap has each hair hand-tied to a sheer mesh base so it can be parted anywhere and appears to grow from the scalp. Monofilament construction takes longer to produce and costs more."
+  },
+  {
+    "id": 65,
+    "domain": "alters_hair_colour",
+    "front": "What is deposit-only colour?",
+    "back": "Deposit-only colour adds pigment to the hair without lightening the natural level at all. Temporary, semi-permanent, and many demi-permanent formulas fall into this category. It is chosen when a client wants to change or enrich tone without altering how light or dark their hair appears."
+  },
+  {
+    "id": 66,
+    "domain": "cuts_hair",
+    "front": "What is the difference between a corded and cordless clipper?",
+    "back": "A corded clipper draws continuous power directly from an outlet and typically runs at a steady, strong speed throughout a service. A cordless clipper runs on an internal battery, offering mobility but requiring regular charging and monitoring of run time. Both use the same fixed-and-oscillating blade mechanism."
+  },
+  {
+    "id": 67,
+    "domain": "chemical_texture_services",
+    "front": "What oxidizing agent is most often used in a perm neutralizer?",
+    "back": "Hydrogen peroxide, at a low working strength. It adds oxygen to the sulfur groups so the disulfide bonds can reform."
+  },
+  {
+    "id": 68,
+    "domain": "styles_hair",
+    "front": "When is a paddle brush the right choice?",
+    "back": "A paddle brush is flat and wide. It is chosen when the goal is maximum smoothness on long hair with minimal directional bending."
+  },
+  {
+    "id": 69,
+    "domain": "common_occupational_skills",
+    "front": "How many sections does a standard safety data sheet follow?",
+    "back": "A safety data sheet follows a standardized sixteen section format. It covers identification, hazard information, composition, first aid, handling, storage, and exposure controls. Employers must keep it accessible to every worker."
+  },
+  {
+    "id": 70,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the anagen phase?",
+    "back": "Anagen is the active growth phase, the longest phase, lasting roughly two to seven years. The hair bulb is fully formed at the base of the follicle and new hair cells are produced continuously."
+  },
+  {
+    "id": 71,
+    "domain": "salon_operations",
+    "front": "What can happen if a health inspection finds a real sanitation violation?",
+    "back": "The salon can receive a correction order requiring the issue to be fixed, followed by a re-inspection to confirm compliance. A serious or repeated violation can lead to a fine or, in a severe case, temporary closure."
+  },
+  {
+    "id": 72,
+    "domain": "specialized_services",
+    "front": "Why should synthetic wig fibre never be exposed to ordinary styling heat?",
+    "back": "Ordinary synthetic fibre is not engineered to tolerate heat and will melt or frizz permanently if a flat iron or hot blow-dryer touches it. Only fibre specifically labelled heat resistant can take any degree of heat styling. Damage to synthetic fibre in this way cannot be reversed or repaired."
+  },
+  {
+    "id": 73,
+    "domain": "alters_hair_colour",
+    "front": "What is a filler in corrective colour work?",
+    "back": "A filler is a product applied before the main colour formula to replace lost pigment or even out porosity across the hair, often on previously lightened or damaged strands. It helps the final colour develop more evenly and predictably. Skipping a needed filler can lead to a patchy or uneven finished result."
+  },
+  {
+    "id": 74,
+    "domain": "cuts_hair",
+    "front": "What is a skin fade in clipper cutting?",
+    "back": "A skin fade is a clipper technique that blends hair down to bare skin at the lowest point, usually near the hairline, and gradually increases in length moving upward. It requires very precise clipper-over-comb and guard transitions to avoid visible lines. It is one of the most detail-intensive clipper techniques."
+  },
+  {
+    "id": 75,
+    "domain": "chemical_texture_services",
+    "front": "Why must the neutralizer be left on for the full manufacturer-specified time?",
+    "back": "Rinsing too early leaves some bonds unreformed, which shows up later as a weak, dropped curl. It must be applied evenly and left on for the full time."
+  },
+  {
+    "id": 76,
+    "domain": "styles_hair",
+    "front": "When is a vent brush the right choice?",
+    "back": "A vent brush has widely spaced bristles and open slots in its base, so air passes directly through the section. It is used for faster rough drying or for preserving natural texture and movement."
+  },
+  {
+    "id": 77,
+    "domain": "common_occupational_skills",
+    "front": "What must a secondary container like a spray bottle carry?",
+    "back": "A product transferred into a secondary container still needs a workplace label. That label must show at minimum the product name, safe handling information, and a reference to the safety data sheet. This applies even inside the immediate work area."
+  },
+  {
+    "id": 78,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the catagen phase?",
+    "back": "Catagen is the short transitional phase, lasting only a few weeks. Growth stops, the hair bulb detaches from its blood supply, and the follicle begins to shrink."
+  },
+  {
+    "id": 79,
+    "domain": "salon_operations",
+    "front": "What are the three general worker rights under occupational health and safety principles?",
+    "back": "The right to know about workplace hazards, the right to participate in identifying and correcting them, and the right to refuse work believed to be genuinely unsafe. These rights work together in most Canadian jurisdictions."
+  },
+  {
+    "id": 80,
+    "domain": "specialized_services",
+    "front": "What precaution should precede a new scalp product on a sensitive client?",
+    "back": "A patch test should be performed before applying any new product fully to a client with a known sensitivity history. This checks for an adverse reaction on a small area first. Skipping this step risks an unnecessary irritation or allergic response during the appointment."
+  },
+  {
+    "id": 81,
+    "domain": "alters_hair_colour",
+    "front": "What does double process mean in hair colouring?",
+    "back": "A double process service involves two separate chemical steps, typically a lightening step followed by a toning step, performed in the same visit or across a short span of appointments. It is commonly used to reach very light blonde results from a much darker starting level. Because it involves more chemical exposure, hair condition must be monitored closely throughout."
+  },
+  {
+    "id": 82,
+    "domain": "cuts_hair",
+    "front": "What is the difference between a taper and a fade?",
+    "back": "A taper gradually shortens hair toward the hairline without necessarily reaching bare skin, keeping some length throughout. A fade blends all the way down to skin at its shortest point before building back up in length. Both rely on smooth, gradual transitions rather than a visible line."
+  },
+  {
+    "id": 83,
+    "domain": "chemical_texture_services",
+    "front": "Why is the hair wrapped around a rod when the neutralizer is applied?",
+    "back": "So the reformed disulfide bonds lock into the new curled position rather than the original straight one. The rod physically holds the shape while the bonds reform."
+  },
+  {
+    "id": 84,
+    "domain": "styles_hair",
+    "front": "What is a diffuser and how is it used on curly hair?",
+    "back": "A diffuser spreads airflow across a wide, low velocity area instead of concentrating it through a nozzle, and it is used on hair with natural curl or coil pattern. The stylist cups sections inside the bowl, holds the tool still or gently lifts it toward the scalp, and dries on low or medium heat so the curls keep their natural clumped formation."
+  },
+  {
+    "id": 85,
+    "domain": "common_occupational_skills",
+    "front": "Name the three fundamental occupational health and safety worker rights.",
+    "back": "The three rights are the right to know, the right to participate, and the right to refuse unsafe work. The right to know underlies the other two. Provincial legislation grants all three to every worker."
+  },
+  {
+    "id": 86,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the telogen phase?",
+    "back": "Telogen is the resting phase, lasting a few months. The follicle is dormant and the old hair is eventually shed to make room for a new anagen hair."
+  },
+  {
+    "id": 87,
+    "domain": "salon_operations",
+    "front": "What does a joint health and safety committee typically include?",
+    "back": "It includes both worker and employer representatives, who meet regularly to identify hazards, review incidents, and recommend workplace improvements. Larger workplaces are generally required to have one under provincial law."
+  },
+  {
+    "id": 88,
+    "domain": "specialized_services",
+    "front": "What risk comes from wearing a protective style too many months?",
+    "back": "Extended wear well beyond the recommended timeframe increases the risk of matting, product buildup, and unnecessary tension building at the root. The scalp also becomes harder to cleanse properly the longer a style stays in. A realistic maintenance schedule protects both the style and the hair underneath it."
+  },
+  {
+    "id": 89,
+    "domain": "alters_hair_colour",
+    "front": "What is a virgin application in permanent colour service?",
+    "back": "A virgin application refers to applying permanent colour to hair that has never been coloured before, as opposed to a retouch on regrowth only. It typically processes more predictably since there is no previous colour interacting with the new formula. Full head virgin applications require even saturation from root to end."
+  },
+  {
+    "id": 90,
+    "domain": "cuts_hair",
+    "front": "What is a duckbill clip used for in sectioning?",
+    "back": "A duckbill clip is a hinged clip with a flat, wide grip used to hold a large section of hair firmly against the head. It keeps hair out of the way without leaving a crease or bend in the strand. It is a standard tool for organizing sections before cutting."
+  },
+  {
+    "id": 91,
+    "domain": "chemical_texture_services",
+    "front": "How does a perm differ from a relaxer at a chemical level?",
+    "back": "Both break disulfide bonds, but a perm reforms them around a rod into curl, while a relaxer reforms them straighter as the hair is smoothed with a comb or hands."
+  },
+  {
+    "id": 92,
+    "domain": "styles_hair",
+    "front": "How do flat irons and curling irons reshape the hair?",
+    "back": "Flat irons and curling irons use heat to temporarily break and reform the hydrogen bonds inside the hair shaft. This is what allows the hair to be reshaped into a smooth line or a curl."
+  },
+  {
+    "id": 93,
+    "domain": "common_occupational_skills",
+    "front": "What structure helps workers exercise the right to participate?",
+    "back": "A joint health and safety committee, or a worker health and safety representative in smaller salons, is a common structure. Workers use it to identify and resolve workplace safety concerns. The employer has a duty to respond to concerns raised this way."
+  },
+  {
+    "id": 94,
+    "domain": "hair_and_scalp_care",
+    "front": "What percentage of scalp hair is typically in anagen, and how fast does scalp hair grow during it?",
+    "back": "Roughly 85 to 90 percent of hair on a healthy scalp is in anagen at any one time. Average scalp hair growth during anagen is often cited as about 1.25 centimetres per month."
+  },
+  {
+    "id": 95,
+    "domain": "salon_operations",
+    "front": "What is a par level in salon inventory?",
+    "back": "A par level is the minimum quantity of a product a salon wants on hand at all times. Once stock drops to that level, staff know it is time to reorder before the product runs out completely."
+  },
+  {
+    "id": 96,
+    "domain": "specialized_services",
+    "front": "What should guide product selection during a scalp treatment consultation?",
+    "back": "Product choice should follow directly from what the stylist actually observes during consultation, such as oiliness, dryness, or flaking, rather than defaulting to one standard product for every client. Matching the product to the real condition gives a more effective and comfortable treatment. A one-size approach can worsen a condition it was never suited to."
+  },
+  {
+    "id": 97,
+    "domain": "alters_hair_colour",
+    "front": "What is a retouch, or root touch up, service?",
+    "back": "A retouch service applies colour only to the new regrowth close to the scalp, matching it to the previously coloured lengths. It is the most common repeat colour service for clients maintaining an ongoing shade. Careful application at the demarcation line prevents an uneven band of colour."
+  },
+  {
+    "id": 98,
+    "domain": "cuts_hair",
+    "front": "What is the difference between a base section and a subsection?",
+    "back": "A base section is one of the larger main panels the whole head is divided into before cutting begins, such as the back or a side. A subsection is a smaller, working piece taken from within a base section for an individual cutting stroke. Subsections are combed and controlled one at a time."
+  },
+  {
+    "id": 99,
+    "domain": "chemical_texture_services",
+    "front": "What does overprocessing mean in a chemical texture service?",
+    "back": "It happens when the chemical service breaks down more of the hair's structure than it can safely support, whether during a perm, relaxer, or smoothing treatment."
+  },
+  {
+    "id": 100,
+    "domain": "styles_hair",
+    "front": "Why does thermal tool temperature need to be matched to the hair?",
+    "back": "Thermal styling depends on heat, and hair condition and texture change how much heat the hair can absorb safely. A single temperature setting cannot suit every client."
+  },
+  {
+    "id": 101,
+    "domain": "common_occupational_skills",
+    "front": "What happens if a work refusal is not resolved by investigation?",
+    "back": "A government inspector may be called in to make a final determination. This follows the supervisor report and employer investigation stages. The worker is protected from discipline for refusing in good faith."
+  },
+  {
+    "id": 102,
+    "domain": "hair_and_scalp_care",
+    "front": "What does hair texture refer to?",
+    "back": "Texture refers to the diameter of an individual strand, classed as fine, medium, or coarse. It is judged by feel, not by how much hair a client has overall."
+  },
+  {
+    "id": 103,
+    "domain": "salon_operations",
+    "front": "What information belongs in a client's service record?",
+    "back": "Contact information, service history with formulas and products used, results of any strand or patch tests, and notes on known allergies or scalp and skin conditions. Accurate records protect both the client and the stylist."
+  },
+  {
+    "id": 104,
+    "domain": "specialized_services",
+    "front": "Why book a wedding trial styling appointment well before the date?",
+    "back": "A trial gives the client and stylist time to make real adjustments if the first attempted look is not right. Booking it too close to the event leaves little room to change course. Scheduling the trial early is part of managing an event day successfully."
+  },
+  {
+    "id": 105,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by colour fading unevenly?",
+    "back": "Uneven fading happens when different sections of hair, often the more porous ends compared with less porous regrowth, lose deposited colour at different rates. It can leave a visible difference in tone between the root and the ends over time. Recognizing the pattern helps the stylist plan a more even future formula or maintenance routine."
+  },
+  {
+    "id": 106,
+    "domain": "cuts_hair",
+    "front": "What is the high point of the head?",
+    "back": "The high point of the head is another name for the apex, the highest area on top of the head when it is held level. It serves as a key reference for radiating layered or graduated shapes outward. Locating it correctly is essential before beginning many layered cuts."
+  },
+  {
+    "id": 107,
+    "domain": "chemical_texture_services",
+    "front": "How does rod size control the size of the curl?",
+    "back": "A small-diameter rod wraps the hair through a tighter arc, locking the cortex into a tight, small curl. A large-diameter rod produces a loose, wide wave."
+  },
+  {
+    "id": 108,
+    "domain": "styles_hair",
+    "front": "Which hair type tolerates the lowest range of thermal heat?",
+    "back": "Fine, damaged, colour treated, or previously chemically processed hair tolerates the lowest range of heat. It is already more porous and has less structural reserve to absorb heat safely."
+  },
+  {
+    "id": 109,
+    "domain": "common_occupational_skills",
+    "front": "Are workers protected from discipline for refusing unsafe work?",
+    "back": "Yes, workers who refuse unsafe work in good faith and follow the proper process are protected from discipline or reprisal. Retaliation for a good faith safety concern is prohibited. Employers are expected to address the hazard instead."
+  },
+  {
+    "id": 110,
+    "domain": "hair_and_scalp_care",
+    "front": "How do fine and coarse hair differ during chemical services?",
+    "back": "Fine hair has the smallest diameter and less strength per strand, so it tends to process faster. Coarse hair has the largest diameter and often a stronger cuticle layer, so it generally needs more processing time or stronger product strength for the same result."
+  },
+  {
+    "id": 111,
+    "domain": "salon_operations",
+    "front": "Why should client health information be handled with extra discretion?",
+    "back": "Health-related details, such as an allergy or a skin condition, are sensitive personal information. Clients reasonably expect this kind of information to stay private and not be shared with anyone outside their own service."
+  },
+  {
+    "id": 112,
+    "domain": "specialized_services",
+    "front": "What matters most when building an updo for a long event?",
+    "back": "Long-lasting hold matters most, achieved through pins anchored securely into a solid base and enough product to resist humidity and movement. A softer, lightly pinned everyday finish is more likely to fall apart under hours of activity. Durability should take priority over a relaxed, minimal-hold approach for this kind of service."
+  },
+  {
+    "id": 113,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour correction service, broadly defined?",
+    "back": "A colour correction service repairs an unwanted or unexpected colour result, often involving neutralizing a wrong tone, evening out patchiness, or adjusting a level that was lifted too far or not far enough. It typically requires more analysis and often more time than a standard colour service. A thorough consultation and strand testing are essential before starting."
+  },
+  {
+    "id": 114,
+    "domain": "cuts_hair",
+    "front": "What structure separates the crown from the nape on the head?",
+    "back": "The occipital bone marks the boundary where the head curves from the back down toward the neck, separating the upper crown area from the lower nape area. It is used as a fixed reference point for blending and elevation decisions. Stylists locate it by feeling for the bony ridge at the base of the skull."
+  },
+  {
+    "id": 115,
+    "domain": "chemical_texture_services",
+    "front": "Why is rod selection one of the first decisions in planning a perm?",
+    "back": "Because the relationship between rod size and curl size is direct and predictable, and it is chosen alongside hair length and the desired look."
+  },
+  {
+    "id": 116,
+    "domain": "styles_hair",
+    "front": "Which hair type can tolerate the highest range of thermal heat?",
+    "back": "Coarse, resistant, or virgin hair that has never been chemically treated can generally tolerate the highest range on a quality thermal tool."
+  },
+  {
+    "id": 117,
+    "domain": "common_occupational_skills",
+    "front": "What must an employer provide before a worker can judge a task unsafe?",
+    "back": "The employer must inform the worker of any known hazard and provide the training needed to work safely around it. This is the right to know. It underlies the ability to exercise the other two safety rights."
+  },
+  {
+    "id": 118,
+    "domain": "hair_and_scalp_care",
+    "front": "What is hair density, and how does it differ from texture?",
+    "back": "Density is how many individual hairs grow per square centimetre of scalp. Texture and density are assessed separately, since a client can have fine texture with high density or coarse texture with low density, and each affects different service decisions."
+  },
+  {
+    "id": 119,
+    "domain": "salon_operations",
+    "front": "What does a deposit at booking typically protect against?",
+    "back": "A deposit is collected when a longer or higher-cost appointment, such as extensions, is booked. It helps offset the financial loss if the client cancels at the last minute or does not show up."
+  },
+  {
+    "id": 120,
+    "domain": "specialized_services",
+    "front": "What product reduces contrast between scalp and hair at a part line?",
+    "back": "A root and scalp concealer powder or spray reduces the contrast between the scalp and the surrounding hair. It offers a quick, appropriate cosmetic solution for a single event or ongoing daily use. It does not address any underlying cause, only the visual appearance."
+  },
+  {
+    "id": 121,
+    "domain": "alters_hair_colour",
+    "front": "Why is a consultation important before every colour service, not just the first one?",
+    "back": "A consultation reviews the client's current hair condition, colour history, and desired outcome before any formula is chosen. It allows the stylist to catch a change in hair condition, grey percentage, or product sensitivity since the last visit. Skipping it risks formulating for hair that no longer matches the client's old record."
+  },
+  {
+    "id": 122,
+    "domain": "cuts_hair",
+    "front": "What is over-direction in haircutting?",
+    "back": "Over-direction is combing a subsection away from its natural growth position, beyond straight out from the head, before cutting it. It is used to create extra length or disconnection in a specific area of a layered cut. It is often combined with high elevation for dramatic shaping."
+  },
+  {
+    "id": 123,
+    "domain": "chemical_texture_services",
+    "front": "What is a basic wrap pattern in permanent waving?",
+    "back": "A wrap that uses rows following the curvature of the head, with rods stacked on top of one another in each row. It determines how the curl sits relative to the head shape."
+  },
+  {
+    "id": 124,
+    "domain": "styles_hair",
+    "front": "What is the safe guideline for choosing a thermal tool temperature?",
+    "back": "Start at the lowest temperature that will realistically achieve the result and raise it only if needed. When in doubt, start low rather than starting high."
+  },
+  {
+    "id": 125,
+    "domain": "common_occupational_skills",
+    "front": "Name three bloodborne pathogens relevant to salon exposure protocol.",
+    "back": "Hepatitis B, hepatitis C, and HIV can transmit through contact with infected blood. Many of these infections show no visible symptoms in the carrier. This is why standard precautions apply to every client."
+  },
+  {
+    "id": 126,
+    "domain": "hair_and_scalp_care",
+    "front": "What is hair porosity?",
+    "back": "Porosity is how readily the hair shaft absorbs and holds moisture and chemicals, and it is controlled largely by the condition of the cuticle. A strand is read as low, normal, or high porosity."
+  },
+  {
+    "id": 127,
+    "domain": "salon_operations",
+    "front": "Why is consultation time scheduled separately from the service itself?",
+    "back": "A rushed consultation is a common cause of a result the client is unhappy with, because expectations are never fully confirmed before work begins. Giving consultation its own time in the schedule helps prevent that outcome."
+  },
+  {
+    "id": 128,
+    "domain": "specialized_services",
+    "front": "Which hair loss pattern always calls for medical referral?",
+    "back": "Sharply defined round or oval bald patches appearing suddenly can indicate alopecia areata, a condition that requires medical evaluation. A scalp treatment or protective style will not address an underlying autoimmune process of this kind. Prompt, respectful referral to a physician or dermatologist is the appropriate response."
+  },
+  {
+    "id": 129,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between a toner and a colour glaze?",
+    "back": "A toner is typically applied after lightening to neutralize unwanted warmth and refine the finished tone, often using a demi-permanent formula. A glaze serves a similar purpose but is generally used to add shine and subtle tone rather than to correct a strong unwanted cast. Both are lower commitment services compared with a full permanent colour application."
+  },
+  {
+    "id": 130,
+    "domain": "cuts_hair",
+    "front": "What is a disconnected haircut?",
+    "back": "A disconnected haircut deliberately separates two areas into distinctly different lengths with no gradual blend between them, such as a very short side paired with a much longer top. It relies on a sharp change in elevation or a hard parting line rather than a traveling guideline. It is a stylistic choice rather than a blending technique."
+  },
+  {
+    "id": 131,
+    "domain": "chemical_texture_services",
+    "front": "What is a spiral wrap pattern, and what is it suited for?",
+    "back": "A pattern that winds the hair around the rod at an angle along its full length rather than in stacked sections. It produces an elongated curl suited to longer hair."
+  },
+  {
+    "id": 132,
+    "domain": "styles_hair",
+    "front": "Why is one slower pass safer than several quick passes over the same section?",
+    "back": "Repeated passes over the same section multiply the risk of damage far more than a single slower pass at a slightly higher temperature. Working in clean, appropriately sized sections and moving smoothly in one pass is safer than dragging a tool back and forth."
+  },
+  {
+    "id": 133,
+    "domain": "common_occupational_skills",
+    "front": "What is the first step after a client is nicked during a service?",
+    "back": "The stylist stops the service immediately. Pressure is applied with a clean, single use item until bleeding stops. A bandage is then offered to the client."
+  },
+  {
+    "id": 134,
+    "domain": "hair_and_scalp_care",
+    "front": "What is low porosity hair like during a service?",
+    "back": "Low porosity hair has a tight, compact cuticle that resists penetration, so it takes longer to process. It may benefit from gentle heat or a longer development time."
+  },
+  {
+    "id": 135,
+    "domain": "salon_operations",
+    "front": "First step when a client raises a complaint?",
+    "back": "Listen fully to the client's specific concern without becoming defensive. Understanding exactly what went wrong comes before deciding on a correction, a refund, or any other next step."
+  },
+  {
+    "id": 136,
+    "domain": "specialized_services",
+    "front": "Why does a cosmetology license not cover diagnosing a client's hair loss?",
+    "back": "Diagnosing the medical cause of hair loss falls outside the defined scope of practice for a cosmetology license. A stylist can offer cosmetic solutions and can recommend a client see a physician, dermatologist, or trichologist. Attempting to diagnose or promise a cure exceeds what the license actually permits."
+  },
+  {
+    "id": 137,
+    "domain": "alters_hair_colour",
+    "front": "What does root shadow, or root melt, refer to as a technique?",
+    "back": "A root shadow, or root melt, is a technique that softly blends a slightly deeper tone near the scalp into the rest of the hair colour. It is often used to soften the regrowth line and extend the time between appointments. The technique relies on smooth blending rather than a hard line of demarcation."
+  },
+  {
+    "id": 138,
+    "domain": "cuts_hair",
+    "front": "What is a weight line?",
+    "back": "A weight line is the visible band where the greatest concentration of hair length and density gathers in a graduated or one-length haircut. It forms because lower elevation keeps more hair at the same length in that area. Its position can be raised or lowered by changing where elevation increases."
+  },
+  {
+    "id": 139,
+    "domain": "chemical_texture_services",
+    "front": "How does wrapping pattern affect the result of a perm?",
+    "back": "It changes where the curl sits relative to the head shape and affects the finished silhouette as much as rod size. Pattern and rod size are decided together."
+  },
+  {
+    "id": 140,
+    "domain": "styles_hair",
+    "front": "Why is a heat protectant not optional on chemically treated or lightened hair?",
+    "back": "A heat protectant cushions the shaft against the sudden heat of a flat iron or curling iron plate and slows moisture loss from inside the hair. It is not optional on chemically treated, lightened, or otherwise compromised hair."
+  },
+  {
+    "id": 141,
+    "domain": "common_occupational_skills",
+    "front": "How should a cape that contacted blood be handled?",
+    "back": "A reusable cape that contacts blood is treated as contaminated. It must be laundered and properly disinfected before it returns to use. A disposable cape in the same situation is simply discarded."
+  },
+  {
+    "id": 142,
+    "domain": "hair_and_scalp_care",
+    "front": "What is high porosity hair like during a service?",
+    "back": "High porosity hair has a lifted or chemically worn cuticle that allows fast, uneven absorption. It processes faster than expected, can grab colour too dark, and may need reduced processing strength."
+  },
+  {
+    "id": 143,
+    "domain": "salon_operations",
+    "front": "Why avoid criticizing another stylist's previous work?",
+    "back": "The current stylist was not present for that earlier consultation and does not know what was discussed or the hair's condition at the time. Criticizing a colleague without that context is considered unprofessional."
+  },
+  {
+    "id": 144,
+    "domain": "specialized_services",
+    "front": "What is the purpose of a scalp massage during a pre-shampoo scalp treatment?",
+    "back": "A scalp massage stimulates circulation and helps the client relax as part of the treatment. It is typically combined with exfoliation and a suited serum or oil. The massage also gives the stylist a close, hands-on opportunity to notice the scalp's actual condition."
+  },
+  {
+    "id": 145,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by the term demarcation line?",
+    "back": "A demarcation line is a visible line where two different colours or levels meet on the hair, most often where new growth meets previously coloured hair. A sharp demarcation line can look unnatural if not blended carefully. Techniques like root shadowing are used to soften this line."
+  },
+  {
+    "id": 146,
+    "domain": "cuts_hair",
+    "front": "What does a wedge haircut describe?",
+    "back": "A wedge haircut is a graduated shape where the back is noticeably shorter than the front, building a triangular, angled silhouette when viewed from the side. It is built with a traveling guideline and increasing elevation moving from the nape forward. The result keeps a defined, connected perimeter rather than fully separated layers."
+  },
+  {
+    "id": 147,
+    "domain": "chemical_texture_services",
+    "front": "Why is even, moderate tension important when wrapping a perm?",
+    "back": "It allows the solution to penetrate consistently and produces a uniform curl from scalp to ends. Uneven tension causes uneven processing and an inconsistent curl pattern."
+  },
+  {
+    "id": 148,
+    "domain": "styles_hair",
+    "front": "How does a heat protectant work, and why is skipping it on a brief pass still a shortcut?",
+    "back": "Heat protectants deposit a thin coating of silicones or other film forming ingredients that cushion the shaft and slow moisture loss. Skipping it because a tool is only used briefly is wrong, because thermal damage accumulates with repeated exposure over time, not only from one prolonged exposure."
+  },
+  {
+    "id": 149,
+    "domain": "common_occupational_skills",
+    "front": "What does standard precautions mean in infection control?",
+    "back": "Standard precautions treat every client's blood and body fluids as potentially infectious. This applies regardless of whether a client discloses a known condition. It is applied consistently to every client, not selectively."
+  },
+  {
+    "id": 150,
+    "domain": "hair_and_scalp_care",
+    "front": "How does a stylist check porosity?",
+    "back": "Slide two fingers along a dry strand from the ends toward the scalp and feel whether the cuticle is smooth and tight or rough and raised. A normal or moderately raised cuticle processes evenly within standard manufacturer timing."
+  },
+  {
+    "id": 151,
+    "domain": "salon_operations",
+    "front": "What must an employer generally do before sponsoring an apprentice?",
+    "back": "The employer must be approved as an eligible sponsor by the provincial or territorial apprenticeship authority. This confirms the workplace can properly support the apprentice's required training hours."
+  },
+  {
+    "id": 152,
+    "domain": "specialized_services",
+    "front": "What is traction alopecia and how does it relate to extensions?",
+    "back": "Traction alopecia is hair loss caused by sustained pulling tension at the root, often from hairstyles or attachments that are too tight or too heavy for the hair's density. Extension methods that add excess weight or are installed too tightly increase this risk. Checking the scalp at every maintenance visit helps catch early signs before lasting damage occurs."
+  },
+  {
+    "id": 153,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour swatch chart used for in a salon?",
+    "back": "A colour swatch chart displays small physical samples of every shade a product line offers, each labeled with its level and tone code. Stylists use it during consultation to help a client visualize a shade under real light before committing to a formula. It is also the reference for confirming a manufacturer's specific mixing ratio and developer recommendation."
+  },
+  {
+    "id": 154,
+    "domain": "cuts_hair",
+    "front": "Why is hair often combed to natural growth direction before the first cut?",
+    "back": "Combing to natural growth direction shows the stylist exactly how the hair will fall and behave once the service is finished, rather than how it looks artificially stretched or redirected. It helps set an accurate stationary or traveling guideline from the very first cut. Skipping this step risks a finished shape that does not sit the way it was planned."
+  },
+  {
+    "id": 155,
+    "domain": "chemical_texture_services",
+    "front": "What can excess tension during a perm do?",
+    "back": "It can stress hair and scalp that are already compromised, and it contributes to an inconsistent result. Even, moderate tension is preferred."
+  },
+  {
+    "id": 156,
+    "domain": "styles_hair",
+    "front": "What is bubble hair?",
+    "back": "Bubble hair is a defect where water inside the shaft is heated so quickly that it turns to steam and forms small bubbles inside the hair structure. These bubbles leave weak points that break easily."
+  },
+  {
+    "id": 157,
+    "domain": "common_occupational_skills",
+    "front": "What should a stylist do if their own broken skin contacts a client's blood?",
+    "back": "The stylist washes the area immediately with soap and water. They then follow their employer's exposure reporting procedure. This applies to the stylist's own exposure just as it applies to client protocols."
+  },
+  {
+    "id": 158,
+    "domain": "hair_and_scalp_care",
+    "front": "What is hair elasticity?",
+    "back": "Elasticity is how far hair can stretch before breaking and whether it returns to its original length afterward. It reflects the internal strength and health of the cortex."
+  },
+  {
+    "id": 159,
+    "domain": "salon_operations",
+    "front": "What determines whether a booth-renting stylist must register for GST or HST?",
+    "back": "Registration is required once the stylist's own self-employed revenue crosses the threshold that triggers it. As an independent contractor, this is the stylist's personal responsibility rather than something the salon handles for them."
+  },
+  {
+    "id": 160,
+    "domain": "specialized_services",
+    "front": "Why should natural growth pattern guide a beard lineup?",
+    "back": "Forcing a shape against the natural direction of beard growth produces uneven, patchy results as the hair grows back in. Reading the real growth pattern first allows the stylist to design a lineup that regrows cleanly. This produces a more natural and longer-lasting result than a rigid template."
+  },
+  {
+    "id": 161,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by hair condition in the context of a colour consultation?",
+    "back": "Hair condition refers to the overall health, strength, elasticity, and integrity of the hair, including any damage from previous chemical services or heat styling. A stylist assesses condition before recommending any lightening or lifting service. Proceeding with an aggressive formula on compromised hair increases the risk of breakage."
+  },
+  {
+    "id": 162,
+    "domain": "cuts_hair",
+    "front": "What is an oblong face shape generally balanced with?",
+    "back": "An oblong face is longer than it is wide, so it is often balanced with added width through the sides and a fringe or bang that visually shortens the face. Height at the crown is generally minimized rather than emphasized. The goal is to reduce the impression of extra length."
+  },
+  {
+    "id": 163,
+    "domain": "chemical_texture_services",
+    "front": "How does subsection size affect the perm result?",
+    "back": "Smaller subsections wrapped with more rods produce a more defined, uniform curl. Larger subsections with fewer rods process faster but leave a looser pattern, particularly at the ends."
+  },
+  {
+    "id": 164,
+    "domain": "styles_hair",
+    "front": "What is wet setting?",
+    "back": "Wet setting is the process of winding damp hair around a roller or rod. As the water inside the shaft evaporates, the hydrogen bonds reform in the new curved shape and leave a curl or wave once the hair is dry and the roller is removed."
+  },
+  {
+    "id": 165,
+    "domain": "common_occupational_skills",
+    "front": "Why are nitrile gloves preferred over latex in most salons?",
+    "back": "Nitrile gloves resist a broad range of chemicals used in salon services. They also avoid the latex allergy risk that latex gloves present. This makes them the standard choice for chemical services."
+  },
+  {
+    "id": 166,
+    "domain": "hair_and_scalp_care",
+    "front": "How far can wet hair in good condition stretch?",
+    "back": "Wet hair in good condition can stretch roughly 40 to 50 percent beyond its original length and still return, because wet hair is naturally more elastic."
+  },
+  {
+    "id": 167,
+    "domain": "salon_operations",
+    "front": "Compulsory versus voluntary certification jurisdiction",
+    "back": "In a compulsory jurisdiction, a person must be a registered apprentice or certified journeyperson to legally work in the trade for pay. In a voluntary jurisdiction, someone can work without formal certification, though only a certified stylist can use protected titles."
+  },
+  {
+    "id": 168,
+    "domain": "specialized_services",
+    "front": "What is the role of a mood board in editorial hairstyling work?",
+    "back": "A mood board communicates the specific look a photographer or art director wants for a shoot, including texture, shape, and overall styling direction. The stylist works from this reference rather than the model's personal preference. It keeps the whole creative team aligned on one shared visual goal."
+  },
+  {
+    "id": 169,
+    "domain": "alters_hair_colour",
+    "front": "What is a pre-lightening step, and when is it used?",
+    "back": "A pre-lightening step lifts the hair to a lighter stage before a separate toning or colour step is applied, commonly used when the target shade requires more lift than a single-step formula can provide. It is especially common when moving from a dark natural level to a very light blonde. Careful monitoring during pre-lightening protects hair integrity before the final toning step."
+  },
+  {
+    "id": 170,
+    "domain": "cuts_hair",
+    "front": "What is a diamond face shape generally balanced with?",
+    "back": "A diamond face has narrow forehead and jaw width with wider cheekbones, so it is often balanced with volume or width at the forehead and chin areas. Styles that add width through the sides at the cheekbone level are generally avoided. The goal is to soften the prominence of the cheekbones."
+  },
+  {
+    "id": 171,
+    "domain": "chemical_texture_services",
+    "front": "Why does using more rods give a more defined curl?",
+    "back": "Smaller subsections hold the hair more precisely against the rod, so the reformed bonds lock in a more uniform curl. Fewer rods on larger subsections leave the pattern looser."
+  },
+  {
+    "id": 172,
+    "domain": "styles_hair",
+    "front": "What determines the diameter of a wet set curl?",
+    "back": "Roller diameter directly determines the diameter of the resulting curl. The hair can only curl as tightly as the object it was wrapped around."
+  },
+  {
+    "id": 173,
+    "domain": "common_occupational_skills",
+    "front": "When does eye protection matter most during a chemical service?",
+    "back": "Eye protection matters most during mixing and application of products that can splash, such as lighteners and strong relaxers. It also applies during some clipper work where debris might travel. It is selected based on the specific task's splash risk."
+  },
+  {
+    "id": 174,
+    "domain": "hair_and_scalp_care",
+    "front": "What does hair that stretches very little or does not spring back indicate?",
+    "back": "It points to compromised elasticity and weakened internal bonds, often from over-processing. Such hair is a poor candidate for further chemical services until it is stabilized with a reconstructive treatment."
+  },
+  {
+    "id": 175,
+    "domain": "salon_operations",
+    "front": "What role does the apprenticeship authority play in exam eligibility?",
+    "back": "The apprenticeship authority tracks an apprentice's logged training hours. Once the required hours and technical training are complete, it confirms the apprentice is eligible to challenge the Certificate of Qualification exam."
+  },
+  {
+    "id": 176,
+    "domain": "specialized_services",
+    "front": "Why should oil-based products be kept away from tape-in extension bonds?",
+    "back": "Oil can loosen the medical grade adhesive that holds tape wefts in place against the natural hair. This causes the extensions to slip or fail earlier than expected. Clients should be advised to apply oil-based products away from the attachment area specifically."
+  },
+  {
+    "id": 177,
+    "domain": "alters_hair_colour",
+    "front": "What does resistant hair mean, and how does it affect a colour service?",
+    "back": "Resistant hair has a tightly closed cuticle that slows how quickly it accepts colour or lightener, often seen in coarse or grey hair. It may need a longer processing time or a slightly different formulation approach than more porous hair on the same head. Recognizing resistant sections helps the stylist plan even, complete coverage."
+  },
+  {
+    "id": 178,
+    "domain": "cuts_hair",
+    "front": "What is a heart-shaped face generally balanced with?",
+    "back": "A heart-shaped face has a wider forehead tapering to a narrower chin, so styling often adds fullness or width near the jawline while minimizing volume directly at the crown and forehead. This helps balance the width difference between the upper and lower face. Side-swept fringes are a common styling choice for this shape."
+  },
+  {
+    "id": 179,
+    "domain": "chemical_texture_services",
+    "front": "What is the single biggest factor affecting processing time for a perm?",
+    "back": "Porosity. Porous hair absorbs the reducing solution faster and processes more quickly, while hair with a tight, healthy cuticle resists the solution and takes longer."
+  },
+  {
+    "id": 180,
+    "domain": "styles_hair",
+    "front": "What does a large roller produce?",
+    "back": "A large roller produces a loose, wide wave with more volume and less defined curl."
+  },
+  {
+    "id": 181,
+    "domain": "common_occupational_skills",
+    "front": "What is one common occupational skin condition PPE helps prevent?",
+    "back": "Contact dermatitis is one of the most common occupational health problems among hairstylists. Gloves protect the skin from prolonged chemical contact during mixing and application. Reducing this contact lowers the risk of developing the condition."
+  },
+  {
+    "id": 182,
+    "domain": "hair_and_scalp_care",
+    "front": "What are the epidermis and dermis of the scalp?",
+    "back": "The epidermis is the thin, outermost protective layer that constantly renews itself. The dermis beneath it is thicker and contains the blood vessels, nerve endings, sebaceous glands, and the lower portion of the hair follicle."
+  },
+  {
+    "id": 183,
+    "domain": "salon_operations",
+    "front": "What does labour mobility mean for a Red Seal endorsed stylist?",
+    "back": "A worker holding the Red Seal endorsement can move to another province or territory and have their certification recognized there. They do not need to rewrite the exam or repeat their apprenticeship, aside from any minor local registration steps."
+  },
+  {
+    "id": 184,
+    "domain": "specialized_services",
+    "front": "What is the risk of tightening a sew-in weft foundation beyond a comfortable point?",
+    "back": "Excess tightness in the braided foundation increases the risk of tension and traction damage along the hairline and scalp. A foundation only needs to be secure enough to hold the wefts, not maximally tight. Balanced tension protects the client's natural hair across repeated future installations."
+  },
+  {
+    "id": 185,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour formula card, and why keep one per client?",
+    "back": "A colour formula card records the exact products, ratios, developer volume, and processing time used for a client's service. Keeping it allows a stylist to repeat a successful result accurately at a future visit or hand off the client to another stylist with the same information. Without it, matching a previous result relies only on memory."
+  },
+  {
+    "id": 186,
+    "domain": "cuts_hair",
+    "front": "Why should a stylist confirm a client's face shape rather than assume it?",
+    "back": "Face shape can be misjudged from a single angle or under certain lighting, and assuming incorrectly can lead to a cut that emphasizes the very feature the client wanted balanced. Comparing forehead, cheekbone, and jawline width directly during consultation reduces this risk. Confirming with the client also opens dialogue about their actual styling preference."
+  },
+  {
+    "id": 187,
+    "domain": "chemical_texture_services",
+    "front": "How does hair texture affect perm processing time?",
+    "back": "Coarse hair has a thicker cortex and generally processes more slowly than fine hair. Fine hair processes faster and can be overprocessed quickly if not checked."
+  },
+  {
+    "id": 188,
+    "domain": "styles_hair",
+    "front": "What does a small roller produce?",
+    "back": "A small roller produces a tight, well defined curl with a smaller diameter."
+  },
+  {
+    "id": 189,
+    "domain": "common_occupational_skills",
+    "front": "How does ventilation protect a stylist during a chemical service?",
+    "back": "Ventilation is an engineering control rather than personal protective equipment. Good extraction and airflow reduce exposure to chemical fumes, and keeping product containers closed adds further protection. Engineering controls lower the hazard at its source instead of relying only on gear worn by the worker."
+  },
+  {
+    "id": 190,
+    "domain": "hair_and_scalp_care",
+    "front": "What do sebaceous glands produce, and what does it do?",
+    "back": "They produce sebum, an oily secretion that coats the hair shaft and skin surface and keeps them lubricated. Sebum output varies between individuals and is influenced by hormones, genetics, and general health."
+  },
+  {
+    "id": 191,
+    "domain": "salon_operations",
+    "front": "What is the main financial risk unique to booth rental?",
+    "back": "A booth renter owes the agreed rent regardless of how many clients they actually serve that period. Unlike a commission employee, their obligation to pay rent does not fall automatically during a slow week."
+  },
+  {
+    "id": 192,
+    "domain": "specialized_services",
+    "front": "Why does chemically relaxed or lightened hair need extra caution before an extension service?",
+    "back": "Chemical processing can leave hair weaker and more fragile than usual, reducing how much added weight it can safely support. A stylist should assess strength before committing to a bonded or beaded method. A lighter method or a delay may be the safer recommendation."
+  },
+  {
+    "id": 193,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by the term single process colour service?",
+    "back": "A single process colour service applies one formula in one step to achieve both lifting and depositing in a single application, typically using permanent oxidative colour. It contrasts with a double process service, which requires two separate chemical steps. Most standard, all over colour appointments are single process services."
+  },
+  {
+    "id": 194,
+    "domain": "cuts_hair",
+    "front": "What is a cape used for during a haircutting service?",
+    "back": "A cape is a protective covering fastened around the client's neck and shoulders to keep cut hair off their clothing and skin during the service. It also helps the stylist see the cutting line clearly against a plain surface. Capes are cleaned or replaced between clients as part of standard hygiene practice."
+  },
+  {
+    "id": 195,
+    "domain": "chemical_texture_services",
+    "front": "How does previously treated or heat-styled hair affect perm processing time?",
+    "back": "It is usually more porous and fragile, and often needs a gentler formula or a shorter processing time than virgin hair of the same texture."
+  },
+  {
+    "id": 196,
+    "domain": "styles_hair",
+    "front": "What is base placement, and what does a roller placed directly on its base produce?",
+    "back": "Base placement is the angle at which the roller sits relative to its own base section. A roller placed directly on its base, wound straight up from the section, produces maximum volume and lift at the scalp."
+  },
+  {
+    "id": 197,
+    "domain": "common_occupational_skills",
+    "front": "What is the core rule for selecting PPE for a service?",
+    "back": "PPE is selected for the specific task rather than worn uniformly for every service. A dry haircut with no chemical exposure does not need chemical resistant gloves. A stylist mixing lightener does need them."
+  },
+  {
+    "id": 198,
+    "domain": "hair_and_scalp_care",
+    "front": "What is dandruff?",
+    "back": "Dandruff, also called pityriasis capitis, is an increased rate of skin cell turnover on the scalp that produces white or grey flakes, often with mild itching. It is generally a cosmetic, manageable condition that often improves with regular use of an anti-dandruff shampoo."
+  },
+  {
+    "id": 199,
+    "domain": "salon_operations",
+    "front": "What does an employer typically supply under a commission arrangement?",
+    "back": "The salon typically supplies the workspace, backbar product, and often front desk and marketing support that helps generate client traffic. In exchange, it takes a percentage of the stylist's service revenue."
+  },
+  {
+    "id": 200,
+    "domain": "specialized_services",
+    "front": "What should precede exfoliating a scalp coloured days earlier?",
+    "back": "An exfoliating scrub applied soon after a colour service could disturb freshly deposited colour molecules near the scalp. This is a practical timing concern rather than an automatic reason to cancel the treatment. Adjusting the service plan around recent chemical work protects the finished colour result."
+  },
+  {
+    "id": 201,
+    "domain": "alters_hair_colour",
+    "front": "What does a colour test check, as distinct from a predisposition test?",
+    "back": "A colour test, sometimes called a strand test for colour, checks how a specific formula will develop on a client's actual hair before the full service begins. It confirms the expected level and tone rather than checking for an allergic reaction. Both types of testing serve different purposes and are not substitutes for one another."
+  },
+  {
+    "id": 202,
+    "domain": "cuts_hair",
+    "front": "Why should loose cut hair be swept from the floor regularly during a service?",
+    "back": "Loose hair on the floor creates a slip hazard for both the stylist and the client moving around the station. It also allows hair from a previous client to mix with the current client's cut, which is a cross-contamination concern. Regular sweeping keeps the station safe and sanitary throughout the day."
+  },
+  {
+    "id": 203,
+    "domain": "chemical_texture_services",
+    "front": "Why is grey hair often more resistant to a perm?",
+    "back": "It frequently processes more slowly than pigmented hair on the same head because it tends to have a more tightly packed cuticle."
+  },
+  {
+    "id": 204,
+    "domain": "styles_hair",
+    "front": "What does placing rollers half off base or fully off base produce?",
+    "back": "Rollers placed half off base or fully off base are angled down and away from the scalp. They reduce root lift while still producing curl through the length of the hair, which suits a softer, less bouffant result near the crown."
+  },
+  {
+    "id": 205,
+    "domain": "common_occupational_skills",
+    "front": "Define ergonomics as it applies to hairstyling.",
+    "back": "Ergonomics is the practice of arranging the work, tools, and posture to reduce physical strain. It applies to a career of repetitive, standing salon work. The goal is preventing strain rather than working through it."
+  },
+  {
+    "id": 206,
+    "domain": "hair_and_scalp_care",
+    "front": "How is seborrheic dermatitis different from dandruff?",
+    "back": "Seborrheic dermatitis is a more inflammatory condition with redness, greasy-looking yellowish scale, and more persistent itching. It can extend to the eyebrows or sides of the nose and often benefits from a medicated approach beyond what a salon shampoo alone provides."
+  },
+  {
+    "id": 207,
+    "domain": "salon_operations",
+    "front": "Why does a generic upsell fail as a retail recommendation?",
+    "back": "A recommendation should be based on the client's actual hair type and the service just performed, giving an honest, specific reason to buy. Recommending whatever has the highest markup ignores the client's real needs and can undermine trust."
+  },
+  {
+    "id": 208,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by even saturation during colour application?",
+    "back": "Even saturation means every section of hair receives a consistent, thorough amount of the colour formula during application, with no missed or thin areas. Uneven saturation is a common cause of a patchy, inconsistent finished result. Careful sectioning and application technique support even saturation across the whole head."
+  },
+  {
+    "id": 209,
+    "domain": "cuts_hair",
+    "front": "What is a barber comb typically used for compared to a wide-tooth comb?",
+    "back": "A barber comb has fine, closely spaced teeth suited to precise sectioning, close clipper-over-comb work, and controlling fine detail near the hairline. A wide-tooth comb detangles and distributes bulkier or curlier hair gently without pulling. Choosing the correct comb affects both control and comfort during the service."
+  },
+  {
+    "id": 210,
+    "domain": "chemical_texture_services",
+    "front": "Why does a stylist use a test curl instead of a fixed clock time during a perm?",
+    "back": "Porosity, texture, and condition can pull processing time in different directions on the same head, so progress is checked with a test curl partway through processing."
+  },
+  {
+    "id": 211,
+    "domain": "styles_hair",
+    "front": "How are perm rods different from rollers, and what are they used for?",
+    "back": "Perm rods come in the same range of diameters as rollers but have a more rigid, ridged construction. They are used on wet, undamaged hair without a chemical service to create a firm, well defined curl pattern, especially on textured or coily hair."
+  },
+  {
+    "id": 212,
+    "domain": "common_occupational_skills",
+    "front": "How does chair height affect a stylist's posture?",
+    "back": "Raising the styling chair brings the client's head to a comfortable working height. This lets the stylist keep a neutral wrist and a straight back. It reduces strain on the neck, shoulders, and lower back."
+  },
+  {
+    "id": 213,
+    "domain": "hair_and_scalp_care",
+    "front": "What is scalp psoriasis?",
+    "back": "Psoriasis is a chronic autoimmune condition that produces thick, well-defined patches covered in silvery-white scale, often raised and clearly bordered. It is not contagious, but it is a medical condition a stylist should not treat or diagnose, and service should be adapted to avoid aggravating active plaques."
+  },
+  {
+    "id": 214,
+    "domain": "salon_operations",
+    "front": "What is one purpose of continuing education for a certified stylist?",
+    "back": "Techniques, trends, and product lines keep changing throughout a career. Continuing education, including manufacturer-run courses, helps a stylist stay current well beyond the point of initial Red Seal certification."
+  },
+  {
+    "id": 215,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between natural level and target level?",
+    "back": "Natural level describes the client's own hair colour before any service, while target level is the level the client wants to achieve by the end of the appointment. The gap between these two numbers helps determine developer strength, processing time, and whether a single visit is realistic. A large gap between natural and target level often calls for a multi-session plan."
+  },
+  {
+    "id": 216,
+    "domain": "cuts_hair",
+    "front": "What does it mean to comb a section to its natural fall before cutting?",
+    "back": "Combing to natural fall means releasing the hair from any artificial stretch or redirection so it hangs the way it actually sits on the head. This confirms the true guideline length rather than a length distorted by tension. It is especially important before a final check on any graduated or layered shape."
+  },
+  {
+    "id": 217,
+    "domain": "chemical_texture_services",
+    "front": "What is a test curl (preliminary test curl)?",
+    "back": "It is a small section wrapped on a rod of the planned size, treated with the actual perm solution, and checked at intervals before committing to a full perm."
+  },
+  {
+    "id": 218,
+    "domain": "styles_hair",
+    "front": "What is finger waving?",
+    "back": "Finger waving is a technique for molding the hair into a series of S shaped waves that lie flat against the head, without any thermal tool or roller."
+  },
+  {
+    "id": 219,
+    "domain": "common_occupational_skills",
+    "front": "What ergonomic benefit does anti-fatigue matting provide?",
+    "back": "Anti-fatigue matting reduces stress on the legs and lower back for a stylist standing at their station. This compares favourably with standing directly on a hard floor. It helps across a full shift of standing work."
+  },
+  {
+    "id": 220,
+    "domain": "hair_and_scalp_care",
+    "front": "What is folliculitis?",
+    "back": "Folliculitis is an inflammation or infection of the hair follicle that appears as small red bumps or pustules around individual follicles, sometimes with tenderness. It can be caused by bacteria, irritation from tight styles, or ingrown hairs, and active folliculitis is a reason to modify or postpone service on the affected area."
+  },
+  {
+    "id": 221,
+    "domain": "salon_operations",
+    "front": "What do skills competitions offer an apprentice or stylist?",
+    "back": "They provide a structured way to test technical skill against a set standard under time pressure. Strong performers at the provincial level can be identified for larger national or international events."
+  },
+  {
+    "id": 222,
+    "domain": "alters_hair_colour",
+    "front": "What does the term colour fatigue, or hair colour fatigue, generally refer to?",
+    "back": "Colour fatigue refers to hair that has been coloured repeatedly over time and has accumulated enough pigment or chemical exposure that new colour no longer processes as predictably. It can show up as muddy, uneven, or dull results despite a correctly chosen formula. Corrective steps such as a filler or a gentle removal service are sometimes needed before applying fresh colour."
+  },
+  {
+    "id": 223,
+    "domain": "cuts_hair",
+    "front": "What is finger tension in haircutting?",
+    "back": "Finger tension is the even, consistent pull a stylist applies with the fingers while holding a subsection before cutting it. Too much tension can cause the hair to spring back shorter than intended once released. Too little tension makes the cutting line harder to control and can produce an uneven result."
+  },
+  {
+    "id": 224,
+    "domain": "chemical_texture_services",
+    "front": "What does a test curl reveal before a full perm is done?",
+    "back": "It shows how quickly the hair processes, whether the hair can tolerate the chosen chemical strength, and what curl result the chosen rod size will produce on that hair."
+  },
+  {
+    "id": 225,
+    "domain": "styles_hair",
+    "front": "How is the wave ridge formed during finger waving?",
+    "back": "The stylist applies setting lotion or styling gel to damp hair, then uses a fine tooth comb and the fingers to direct the hair one way and then the other. Pressing the index and middle finger against the scalp on either side of the section while combing the opposite way pushes a crest of hair up between the fingers."
+  },
+  {
+    "id": 226,
+    "domain": "common_occupational_skills",
+    "front": "What early symptoms suggest a developing repetitive strain injury?",
+    "back": "Tingling, numbness, or persistent soreness in the wrist are early warning signs. These should be reported promptly rather than worked through. Early reporting helps protect a career that depends on hand function."
+  },
+  {
+    "id": 227,
+    "domain": "hair_and_scalp_care",
+    "front": "What is androgenetic alopecia?",
+    "back": "It is the most common form of hair loss, a genetically influenced, hormone-related pattern of gradual thinning. In men it typically begins at the temples and crown, and in women it usually presents as diffuse thinning over the crown while the frontal hairline is more often preserved."
+  },
+  {
+    "id": 228,
+    "domain": "salon_operations",
+    "front": "What is informed consent before a chemical service?",
+    "back": "It means the client understands what the service involves, roughly how long it takes, what it costs, and any real risk, such as a possible reaction, before the stylist begins. It is not the same as a liability waiver."
+  },
+  {
+    "id": 229,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by a client's colour history?",
+    "back": "Colour history is the record of what chemical colour services a client has had in the past, including products used, how recently, and any reactions experienced. Reviewing it before a new service helps the stylist anticipate how the hair might respond and avoid an unsafe or unpredictable combination of chemicals. An incomplete or inaccurate colour history increases the risk of a poor result."
+  },
+  {
+    "id": 230,
+    "domain": "cuts_hair",
+    "front": "What is a natural part used for in sectioning?",
+    "back": "A natural part follows the direction the hair already falls or grows from the scalp, rather than a straight geometric line imposed by the stylist. Cutting along it helps a guideline read correctly once the artificial sectioning clips are removed. It is especially relevant on textured or curly hair with a strong natural pattern."
+  },
+  {
+    "id": 231,
+    "domain": "chemical_texture_services",
+    "front": "How is a test curl checked?",
+    "back": "A small portion of the wrapped hair is gently unwound without fully removing it from the rod, and the curl pattern is observed. If the S-shape is well defined and matches the rod diameter, the hair is ready for neutralizer."
+  },
+  {
+    "id": 232,
+    "domain": "styles_hair",
+    "front": "When are the clips removed in a finger wave set, and why?",
+    "back": "Each completed wave is secured with clips while the setting lotion dries. The clips are removed only once the hair has fully set, because disturbing a wet wave before it dries will collapse the ridge."
+  },
+  {
+    "id": 233,
+    "domain": "common_occupational_skills",
+    "front": "How does correctly sized shears reduce strain?",
+    "back": "Shears sized appropriately for the stylist's hand reduce the grip force needed for repetitive cutting motions. This lowers the risk of tendinitis and carpal tunnel symptoms. Lightweight clippers offer a similar benefit."
+  },
+  {
+    "id": 234,
+    "domain": "hair_and_scalp_care",
+    "front": "What is alopecia areata?",
+    "back": "It is an autoimmune condition that causes sudden, well-defined, often round patches of hair loss with an unpredictable course."
+  },
+  {
+    "id": 235,
+    "domain": "salon_operations",
+    "front": "Why should stock counts be reconciled against recorded sales regularly?",
+    "back": "Reconciling counted stock against recorded sales helps a salon catch discrepancies caused by waste, theft, or a data entry error. Logging every sale at the point of sale makes this comparison accurate."
+  },
+  {
+    "id": 236,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between warm and cool skin undertones?",
+    "back": "A warm skin undertone often has golden, peachy, or yellow undertones, while a cool skin undertone often has pink, red, or blue undertones. Stylists sometimes consider this alongside a client's stated preference when recommending a flattering tone family. It is only one factor among several, not a strict rule that overrides the client's own wishes."
+  },
+  {
+    "id": 237,
+    "domain": "cuts_hair",
+    "front": "What is meant by checking a haircut in cross-check partings?",
+    "back": "Cross-checking is combing sections in the opposite direction from how they were originally cut, such as vertically after cutting horizontally, to reveal any unevenness the original parting pattern hid. It is a standard final quality step before finishing a service. It often catches small errors a single parting angle would miss."
+  },
+  {
+    "id": 238,
+    "domain": "chemical_texture_services",
+    "front": "What should the stylist do if the test curl pattern is barely formed?",
+    "back": "More time is needed. The same unwinding check is used throughout the full service to monitor processing."
+  },
+  {
+    "id": 239,
+    "domain": "styles_hair",
+    "front": "What hair characteristics are best for finger waving?",
+    "back": "Finger waving works best on hair with enough length and a texture that will hold the S shape, typically straight or chemically relaxed hair. Naturally curly or coily hair will not mold into the flat wave pattern as predictably."
+  },
+  {
+    "id": 240,
+    "domain": "common_occupational_skills",
+    "front": "What does a client consultation begin with?",
+    "back": "A consultation begins with active listening about what the client wants. This includes their lifestyle, maintenance willingness, and history with previous services. It happens before any visual or physical assessment."
+  },
+  {
+    "id": 241,
+    "domain": "hair_and_scalp_care",
+    "front": "What is traction alopecia?",
+    "back": "It is hair loss caused mechanically by sustained tension from tight braiding, ponytails, or extensions, most often visible along the front hairline. Because a stylist can cause or prevent it, catching it early and reducing tension can often reverse it before the follicle scars."
+  },
+  {
+    "id": 242,
+    "domain": "alters_hair_colour",
+    "front": "What does the term colour melt refer to as a blending technique?",
+    "back": "A colour melt is a blending technique that transitions gradually between two or more shades with no hard lines, often moving from a deeper root area into lighter mid-lengths and ends. It relies on careful placement and blending rather than a single flat application. The technique is often paired with foiling or balayage placement methods."
+  },
+  {
+    "id": 243,
+    "domain": "cuts_hair",
+    "front": "Why is elevation sometimes described using clock positions instead of degrees?",
+    "back": "Some stylists describe elevation using a clock face metaphor, such as holding a section out to nine o'clock, as an alternative, intuitive way to communicate the same angle concept as degrees. Both describe how far a subsection is lifted away from the head before cutting. The underlying effect on graduation and layering is identical either way."
+  },
+  {
+    "id": 244,
+    "domain": "chemical_texture_services",
+    "front": "What can happen if a test curl is skipped on hair with an unknown or risky history?",
+    "back": "It removes the one piece of direct evidence about how that hair will respond to the chemical, which is why skipping it is a common judgment error."
+  },
+  {
+    "id": 245,
+    "domain": "styles_hair",
+    "front": "What is backcombing, also called teasing?",
+    "back": "Backcombing is combing a small section of hair back toward the scalp in short, repeated strokes with a fine tooth comb or teasing brush. It tangles the hair at its base to create a cushion of volume that supports the smoother top layer combed over it."
+  },
+  {
+    "id": 246,
+    "domain": "common_occupational_skills",
+    "front": "What does a physical hair and scalp assessment check for?",
+    "back": "It examines hair texture, density, growth pattern, and scalp condition. It also checks the condition of previously treated hair. This determines whether a service safe on virgin hair is also safe here."
+  },
+  {
+    "id": 247,
+    "domain": "hair_and_scalp_care",
+    "front": "What should a stylist do if a client shows unusual scaling with movement or live insects at the hair shaft base?",
+    "back": "Treat it as a possible contagious condition, such as head lice, and refer the client rather than continuing the service. Referral protects both the client's health and the salon's liability."
+  },
+  {
+    "id": 248,
+    "domain": "alters_hair_colour",
+    "front": "What is a patch test site, and where is it commonly performed?",
+    "back": "A patch test site is the small area of skin used for a predisposition test, most commonly located behind the ear or on the inner elbow. These areas are chosen because they are easy to observe and represent typical skin sensitivity. The site should be left undisturbed for the full waiting period before being checked."
+  },
+  {
+    "id": 249,
+    "domain": "cuts_hair",
+    "front": "What is a horseshoe section?",
+    "back": "A horseshoe section is a curved parting that isolates the top and crown area of the head in a shape resembling a horseshoe, often used before building layers or graduation outward from that panel. It separates the top from the sides and back for independent control. It is common in round-layered haircuts."
+  },
+  {
+    "id": 250,
+    "domain": "chemical_texture_services",
+    "front": "What does a chemical relaxer do?",
+    "back": "It permanently straightens curly or wavy hair by breaking disulfide bonds and allowing them to reform in a new, straighter configuration. The hair is smoothed straight with a comb or the stylist's hands during processing."
+  },
+  {
+    "id": 251,
+    "domain": "styles_hair",
+    "front": "On what hair condition should backcombing be done, and why?",
+    "back": "Backcombing should be done on completely dry hair, because wet hair is more elastic and more easily damaged by repeated combing. The tension should be firm but controlled, since overly aggressive backcombing at the scalp causes unnecessary breakage in updo work."
+  },
+  {
+    "id": 252,
+    "domain": "common_occupational_skills",
+    "front": "What should happen if a desired result is unsafe in one visit?",
+    "back": "The stylist explains the risk in plain language. A safer, alternative path to the result is described. The client's informed agreement is obtained before proceeding."
+  },
+  {
+    "id": 253,
+    "domain": "hair_and_scalp_care",
+    "front": "Which direction should hair be brushed, and why?",
+    "back": "Brush from the scalp toward the hair ends, following the direction of the cuticle so the cuticle stays flat. Brushing against the cuticle direction can roughen or lift it, leaving hair dull and prone to tangling."
+  },
+  {
+    "id": 254,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by processing time in a colour service?",
+    "back": "Processing time is the length of time a mixed colour or lightening formula is left on the hair to develop before rinsing. It varies by product, developer volume, and the amount of lift or deposit required. Cutting processing time short or extending it beyond the manufacturer's guidance can both produce an unpredictable result."
+  },
+  {
+    "id": 255,
+    "domain": "cuts_hair",
+    "front": "What is meant by cutting to a natural fall check?",
+    "back": "A natural fall check is releasing a freshly cut section from tension and comb control to see how it actually settles before moving to the next section. It confirms the cut length matches the intended guideline once gravity and natural texture take over. Skipping this check risks compounding a small error across multiple sections."
+  },
+  {
+    "id": 256,
+    "domain": "chemical_texture_services",
+    "front": "What is a lye (sodium hydroxide) relaxer?",
+    "back": "A highly alkaline relaxer, generally in a pH range of about 13 to 14, that works quickly and produces very straight, long-lasting results."
+  },
+  {
+    "id": 257,
+    "domain": "styles_hair",
+    "front": "What is a pin curl?",
+    "back": "A pin curl is a small circle of hair shaped by hand and secured flat against the head with clips to set a curl pattern without heat. It can be sculpted flat against the scalp for a smooth curl or built as a standing barrel for more height."
+  },
+  {
+    "id": 258,
+    "domain": "common_occupational_skills",
+    "front": "Why does a stylist check in during a chemical process?",
+    "back": "Checking in during processing maintains communication throughout the service. It helps catch a developing problem, such as scalp discomfort, before it worsens. This closes the consultation loop that began before the service."
+  },
+  {
+    "id": 259,
+    "domain": "hair_and_scalp_care",
+    "front": "How should wet hair be combed or detangled?",
+    "back": "Detangle wet hair gently from the ends toward the scalp, since wet hair is more elastic and can stretch roughly 40 to 50 percent. Avoid forceful tugging that would break healthy hair or lift the cuticle."
+  },
+  {
+    "id": 260,
+    "domain": "alters_hair_colour",
+    "front": "What does the term colour lift and fill mean as a corrective technique?",
+    "back": "Lift and fill is a corrective technique used when hair has been coloured too dark or dull, involving lightly lifting the unwanted colour and then filling with a warmer, more accurate base tone before the final shade is applied. It restores the underlying warmth needed for the final colour to develop true. Skipping the fill step often produces a flat, muddy final result."
+  },
+  {
+    "id": 261,
+    "domain": "cuts_hair",
+    "front": "What is a solid form haircut?",
+    "back": "A solid form haircut is another term for a one-length or low-graduation shape where the perimeter reads as one continuous, connected mass with minimal internal movement. It relies on a stationary guideline and low elevation throughout. Bobs and blunt cuts are common examples of this form."
+  },
+  {
+    "id": 262,
+    "domain": "chemical_texture_services",
+    "front": "Why must a protective base cream be applied before a lye relaxer?",
+    "back": "Because the highly alkaline, fast-acting formula can cause scalp irritation or chemical burns if left in contact with skin. The base cream is a barrier, not a treatment."
+  },
+  {
+    "id": 263,
+    "domain": "styles_hair",
+    "front": "What is the stem of a pin curl?",
+    "back": "The stem is the amount of hair left free between the base of the curl and the clip. It controls how much mobility the finished curl will have."
+  },
+  {
+    "id": 264,
+    "domain": "common_occupational_skills",
+    "front": "What is the final consultation step before a client leaves the chair?",
+    "back": "Confirming the client's satisfaction with the result before they leave the chair. This closes the consultation loop started at check-in. It reduces the chance of a later dispute."
+  },
+  {
+    "id": 265,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the natural pH of healthy hair and scalp?",
+    "back": "Healthy hair and scalp sit at approximately 4.5 to 5.5 on the pH scale, which is slightly acidic. This acidity keeps the cuticle lying flat and tight, supporting shine and protection against moisture loss."
+  },
+  {
+    "id": 266,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by even porosity across a head of hair?",
+    "back": "Even porosity means the hair shaft absorbs and holds colour at a similar rate from root to end, producing a consistent result. Uneven porosity, often from previous chemical services concentrated on the ends, can cause a formula to process differently along the length. Fillers and porosity equalizing products are sometimes used to correct this before colouring."
+  },
+  {
+    "id": 267,
+    "domain": "cuts_hair",
+    "front": "What is a graduated form haircut?",
+    "back": "A graduated form haircut builds increasing length from a shorter interior to a longer perimeter using moderate elevation and a traveling guideline. It keeps a connected weight line while still adding shape and movement compared to a solid form. It sits between a solid form and a fully uniform layered form."
+  },
+  {
+    "id": 268,
+    "domain": "chemical_texture_services",
+    "front": "What is a no-lye relaxer made from?",
+    "back": "Calcium hydroxide combined with guanidine carbonate, which react together to form the active straightening compound."
+  },
+  {
+    "id": 269,
+    "domain": "styles_hair",
+    "front": "What is the difference between a no-stem curl and a full-stem curl?",
+    "back": "A curl with no stem sits closest to the head and moves the least. A full stem curl has more give and produces a softer, more mobile finish."
+  },
+  {
+    "id": 270,
+    "domain": "common_occupational_skills",
+    "front": "What does a stiff, gritty shear pivot usually need?",
+    "back": "A stiff or gritty pivot typically needs oil rather than professional sharpening. Periodic oiling prevents the metal to metal friction that causes premature wear. This should be checked before assuming the blades themselves are dull."
+  },
+  {
+    "id": 271,
+    "domain": "hair_and_scalp_care",
+    "front": "How do surfactants clean the hair?",
+    "back": "Surfactants are molecules with one end attracted to water and one end attracted to oil. The oil-attracted ends surround and trap sebum, product buildup, and dirt in clusters called micelles, which rinsing carries away with the water."
+  },
+  {
+    "id": 272,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour line, or product line, in a professional context?",
+    "back": "A colour line, or product line, is a full range of hair colour products from one manufacturer, sharing a consistent level and tone numbering system, mixing ratio, and processing guidance. Salons often standardize on one or two lines to keep formulation consistent across their team. Switching lines requires learning that line's specific chart and technical instructions."
+  },
+  {
+    "id": 273,
+    "domain": "cuts_hair",
+    "front": "What is a uniformly layered form haircut?",
+    "back": "A uniformly layered form haircut holds every section at the same high elevation, typically at or near ninety degrees, so all the layers end up the same length throughout the head. This produces even, consistent movement with no single dominant weight line. It differs from graduation, which keeps a defined perimeter."
+  },
+  {
+    "id": 274,
+    "domain": "chemical_texture_services",
+    "front": "What is the advantage of a no-lye relaxer?",
+    "back": "It is generally gentler on the scalp than a lye relaxer and less likely to cause the same kind of burn, which suits clients with sensitive scalps."
+  },
+  {
+    "id": 275,
+    "domain": "styles_hair",
+    "front": "What is a French twist?",
+    "back": "The French twist is built by smoothing the hair to one side across the back of the head, then rolling and twisting the length upward against itself along a vertical seam and pinning it in place. It produces a classic, elongated silhouette used often for formal styling."
+  },
+  {
+    "id": 276,
+    "domain": "common_occupational_skills",
+    "front": "How often should shears be wiped clean during a shift?",
+    "back": "Shears should be wiped clean after every single use, not just at the end of the day. Residue left on the blade and pivot accelerates dulling and corrosion. This is separate from full disinfection."
+  },
+  {
+    "id": 277,
+    "domain": "hair_and_scalp_care",
+    "front": "When is a clarifying shampoo appropriate?",
+    "back": "A clarifying shampoo uses stronger surfactants to remove heavy buildup, such as styling product residue or mineral deposits from hard water. It is typically used periodically rather than daily, since frequent use can be drying."
+  },
+  {
+    "id": 278,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by tonal value in relation to a client's skin?",
+    "back": "Tonal value in this context refers to how warm or cool a client's skin reads, which stylists sometimes weigh when recommending a complementary hair colour tone. It works alongside the client's personal preference rather than replacing it. A colour consultation typically considers both the technical formulation and this kind of aesthetic judgment together."
+  },
+  {
+    "id": 279,
+    "domain": "cuts_hair",
+    "front": "What is an increase-layered haircut?",
+    "back": "An increase-layered haircut is built with elevation and over-direction carried past ninety degrees, so the layers get progressively shorter toward the interior and the perimeter carries more length and weight. It creates strong movement while still keeping some length at the outline. It is more dramatic than a standard uniform layer."
+  },
+  {
+    "id": 280,
+    "domain": "chemical_texture_services",
+    "front": "What is the tradeoff of using a no-lye relaxer over time?",
+    "back": "It can leave calcium deposits on the hair shaft over repeated use, coating it, reducing moisture and colour absorption, and sometimes causing breakage if not addressed with a clarifying treatment."
+  },
+  {
+    "id": 281,
+    "domain": "styles_hair",
+    "front": "What is a chignon?",
+    "back": "A chignon is a low, gathered style usually positioned at or near the nape of the neck, where the hair is twisted, braided, or wrapped into a compact knot or roll and pinned. It suits both casual and formal occasions depending on how neatly it is finished."
+  },
+  {
+    "id": 282,
+    "domain": "common_occupational_skills",
+    "front": "What happens to hair when a dull shear is used?",
+    "back": "A dull shear forces the stylist to apply more pressure during cutting. It can bend or crush the hair shaft rather than shearing it cleanly. This damages the ends the stylist is trying to create."
+  },
+  {
+    "id": 283,
+    "domain": "hair_and_scalp_care",
+    "front": "What is a moisturizing shampoo for?",
+    "back": "A moisturizing shampoo uses gentler surfactants and added conditioning agents for regular use on dry or chemically treated hair. Using a clarifying shampoo on an already dry, sensitized scalp every visit can worsen dryness and irritation."
+  },
+  {
+    "id": 284,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour remover, and how does it differ from lightener?",
+    "back": "A colour remover is a product designed to break down and remove artificial colour molecules from the hair without significantly lifting the natural pigment. Lightener, by contrast, is designed to lighten the natural pigment itself and will also affect artificial colour along the way. Choosing between them depends on whether the goal is to remove added colour or to lighten the hair's own natural tone."
+  },
+  {
+    "id": 285,
+    "domain": "cuts_hair",
+    "front": "Why recheck elevation on curved areas like behind the ear?",
+    "back": "The head's surface is not flat, so holding a subsection at what feels like the same angle can actually produce different elevation once the curve of the skull changes underneath it. Curved areas like behind the ear or around the crown are common spots for this kind of unintentional shift. Rechecking prevents an unplanned dip or bump in the finished line."
+  },
+  {
+    "id": 286,
+    "domain": "chemical_texture_services",
+    "front": "What are thio relaxers?",
+    "back": "Relaxers that use the same reducing chemistry as a permanent wave, built around thioglycolate, rather than the hydroxide chemistry of lye and no-lye formulas."
+  },
+  {
+    "id": 287,
+    "domain": "styles_hair",
+    "front": "How is a three strand braid constructed?",
+    "back": "The hair is divided into three even sections. The outer strands are alternately crossed over the centre strand, right over centre then left over centre, repeating down the length."
+  },
+  {
+    "id": 288,
+    "domain": "common_occupational_skills",
+    "front": "What routine keeps clipper blades from overheating?",
+    "back": "Clipper blades need regular lubrication with clipper oil to reduce heat and friction. They should also be brushed free of clippings after every use. Skipping this routine over a long shift can cause noticeable overheating."
+  },
+  {
+    "id": 289,
+    "domain": "hair_and_scalp_care",
+    "front": "What does conditioning do for the hair?",
+    "back": "Conditioning restores moisture, smooths the cuticle, and can rebuild some of the hair's internal strength depending on the treatment used. Choosing the right type depends on correctly diagnosing what the hair needs."
+  },
+  {
+    "id": 290,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by a client's grey pattern?",
+    "back": "A grey pattern describes how grey hair is distributed across a client's head, such as concentrated at the temples, scattered evenly, or covering the crown more heavily. Recognizing the pattern helps a stylist decide whether a uniform formula or a more targeted approach across different sections is needed. A stylist may need to adjust saturation or base tone differently in heavier grey areas."
+  },
+  {
+    "id": 291,
+    "domain": "cuts_hair",
+    "front": "What is meant by working in panels during a haircut?",
+    "back": "Working in panels means completing one sectioned area of the head fully before moving to the next, rather than jumping between areas. It helps maintain a consistent guideline and elevation within that panel before it interacts with the next one. It is a disciplined way to keep a complex cut organized."
+  },
+  {
+    "id": 292,
+    "domain": "chemical_texture_services",
+    "front": "How are thio relaxers different in strength from hydroxide relaxers?",
+    "back": "They are generally considered milder because they rely on the gentler reducing-and-oxidizing mechanism rather than a strong hydroxide reaction, but they still require careful timing and a neutralizing step."
+  },
+  {
+    "id": 293,
+    "domain": "styles_hair",
+    "front": "What is a French braid?",
+    "back": "A French braid follows the same crossing pattern as a three strand braid but begins close to the scalp and gradually incorporates new hair from each side into the outer strands as it progresses. The result is a braid that appears to grow directly out of the scalp along its entire path."
+  },
+  {
+    "id": 294,
+    "domain": "common_occupational_skills",
+    "front": "Why is a dedicated case recommended for storing shears?",
+    "back": "Shears kept loose in a drawer with other metal tools can nick their own cutting edges. A dedicated case or guard prevents this kind of contact damage. This protects the edge regardless of the shear's current condition."
+  },
+  {
+    "id": 295,
+    "domain": "hair_and_scalp_care",
+    "front": "What is a deep conditioning treatment?",
+    "back": "A deep conditioning treatment is left on longer than a rinse-out conditioner, often with heat, so the ingredients can penetrate further into the cortex. It is used periodically for hair that needs more intensive repair than a daily conditioner provides."
+  },
+  {
+    "id": 296,
+    "domain": "alters_hair_colour",
+    "front": "What does the term colour saturation mean when applied to a finished result?",
+    "back": "Colour saturation describes how intensely and fully pigment has been deposited into the hair, ranging from a sheer, translucent result to a rich, opaque one. The desired saturation level depends on the product category and the client's stated goal. A demi-permanent gloss typically produces less saturation than a fully deposited permanent formula."
+  },
+  {
+    "id": 297,
+    "domain": "cuts_hair",
+    "front": "What is a perimeter check comb-out?",
+    "back": "A perimeter check comb-out is combing the entire outline of a finished haircut, without any internal sectioning, to see the overall silhouette as the client will actually see it. It reveals any inconsistency between sections that individual panel checks might miss. It is typically one of the last steps before finishing a service."
+  },
+  {
+    "id": 298,
+    "domain": "chemical_texture_services",
+    "front": "What is a virgin relaxer application?",
+    "back": "The first relaxer service on hair that has never been chemically straightened. Relaxer is applied to the entire length from roots to ends since none of it has been processed before."
+  },
+  {
+    "id": 299,
+    "domain": "styles_hair",
+    "front": "What is a Dutch braid?",
+    "back": "A Dutch braid uses the same principle of picking up new hair from the sides, but the outer strands are crossed underneath the centre strand instead of over it. This makes the braid sit up and stand out from the head, so it is sometimes called an inverted or reverse French braid."
+  },
+  {
+    "id": 300,
+    "domain": "common_occupational_skills",
+    "front": "What does a complete client record include?",
+    "back": "A complete record includes contact information, documented service and chemical history, and patch or strand test results. It also includes product formulas, processing times, and outcome notes. Any stylist can reference it, not only the original one."
+  },
+  {
+    "id": 301,
+    "domain": "hair_and_scalp_care",
+    "front": "When are protein-based treatments most useful?",
+    "back": "Protein-based treatments temporarily fill gaps along the hair shaft, adding strength and firmness. They are most useful for hair that is overly elastic or breaking from weakened internal bonds, such as hair that has been over-processed."
+  },
+  {
+    "id": 302,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by the term shelf stability in reference to mixed hair colour?",
+    "back": "Shelf stability refers to how long a mixed colour and developer formula remains chemically active and usable once combined. Once mixed, oxidative colour begins reacting immediately and loses effectiveness over time, which is why it must be used promptly rather than stored for a later service. Manufacturers generally specify how quickly a mixed formula should be applied."
+  },
+  {
+    "id": 303,
+    "domain": "cuts_hair",
+    "front": "What is a friction cutting technique?",
+    "back": "Friction cutting removes texture by rubbing or gliding a thinning shear or razor across the surface of already-cut hair rather than cutting into a fresh section. It softens bulk on the outer layer without shortening interior length. It is generally a light, controlled finishing technique rather than a primary shaping tool."
+  },
+  {
+    "id": 304,
+    "domain": "chemical_texture_services",
+    "front": "Why does a virgin relaxer application start slightly away from the scalp?",
+    "back": "Body heat near the scalp accelerates processing, so the application starts slightly away from the scalp and works outward before being taken through to the scalp near the end of the timing."
+  },
+  {
+    "id": 305,
+    "domain": "styles_hair",
+    "front": "What is a fishtail or herringbone braid?",
+    "back": "A fishtail braid uses only two large sections of hair rather than three. A small piece is taken from the outer edge of one section and crossed over to the opposite section, then repeated from the other side, alternating down the length."
+  },
+  {
+    "id": 306,
+    "domain": "common_occupational_skills",
+    "front": "Why is chemical service history especially important before a new service?",
+    "back": "Combining certain processes without knowing prior treatments can cause serious damage. An example is a strong relaxer applied over hair already carrying another chemical treatment. Recording exact products and timing prevents this kind of risk."
+  },
+  {
+    "id": 307,
+    "domain": "hair_and_scalp_care",
+    "front": "When are moisture-based treatments most useful?",
+    "back": "Moisture-based treatments add and hold water within the cortex, improving flexibility and softness. They are most useful for hair that feels dry, stiff, or brittle."
+  },
+  {
+    "id": 308,
+    "domain": "alters_hair_colour",
+    "front": "What is an application brush, or tint brush, used for in colour services?",
+    "back": "An application brush, or tint brush, is a tool used to apply mixed colour formula evenly and precisely to sectioned hair. Its shape and bristle spacing help control how much product is placed and how cleanly it is worked through each section. Using the correct brush supports even saturation and a cleaner working process."
+  },
+  {
+    "id": 309,
+    "domain": "cuts_hair",
+    "front": "What is meant by texture on the ends versus texture through the interior?",
+    "back": "Texture on the ends refers to softening or thinning applied only near the tips of the hair, affecting the outline. Texture through the interior instead removes bulk from within the mass of the haircut, affecting overall density and how the hair moves. The two are chosen independently depending on where weight needs to be reduced."
+  },
+  {
+    "id": 310,
+    "domain": "chemical_texture_services",
+    "front": "What is a relaxer retouch (touch-up)?",
+    "back": "A relaxer service applied only to new growth that has come in since the last service. Previously straightened hair has already had its bonds broken and reformed once and does not benefit from a second application."
+  },
+  {
+    "id": 311,
+    "domain": "styles_hair",
+    "front": "Where can a fishtail braid be started, and why?",
+    "back": "A fishtail braid can be started anywhere on a length of hair because no new hair is picked up as it progresses. The small, repeated crossings produce a fine, woven texture once complete."
+  },
+  {
+    "id": 312,
+    "domain": "common_occupational_skills",
+    "front": "What does a consent form document before a risky chemical service?",
+    "back": "It confirms the client was informed of the risks involved. It also confirms a patch test was offered or performed. The client's agreement to proceed is documented in writing."
+  },
+  {
+    "id": 313,
+    "domain": "hair_and_scalp_care",
+    "front": "What is protein overload, and why does it matter?",
+    "back": "Protein overload is when too much protein is used on hair that is already protein-rich and moisture-poor, leaving it stiff and prone to snapping. Using only moisture on hair that has lost significant strength can leave it soft but still weak, so the balance must be read from what the hair needs."
+  },
+  {
+    "id": 314,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by the term colour fade, as distinct from a colour correction?",
+    "back": "Colour fade describes the natural, gradual loss of deposited pigment over time through washing, sun exposure, and normal wear, rather than a mistake in the original formula. It is expected with semi-permanent and demi-permanent products in particular. A colour correction, by contrast, addresses an unwanted or incorrect result rather than normal expected fading."
+  },
+  {
+    "id": 315,
+    "domain": "cuts_hair",
+    "front": "Why is a stylist's non-cutting hand important during a haircut?",
+    "back": "The non-cutting hand holds and controls tension on each subsection, positions it at the correct angle, and often indicates where the guideline sits before the cutting hand makes contact. Poor control from this hand can undo an otherwise correct elevation or cutting line choice. Both hands work together throughout every cutting stroke."
+  },
+  {
+    "id": 316,
+    "domain": "chemical_texture_services",
+    "front": "Why is overlapping relaxer onto already-straightened hair one of the most damaging mistakes?",
+    "back": "That hair has already had its structure altered once, and a second dose of strong relaxer breaks bonds with no healthy structure left to protect, weakening the hair and often causing visible breakage."
+  },
+  {
+    "id": 317,
+    "domain": "styles_hair",
+    "front": "Why are curly and coily hair textures naturally drier?",
+    "back": "Because the hair shaft on these textures is irregular rather than round, natural sebum produced at the scalp has a harder path down the length of the hair. This leaves curly and coily hair naturally drier than straighter textures."
+  },
+  {
+    "id": 318,
+    "domain": "common_occupational_skills",
+    "front": "Can a client record be edited after a complaint is filed?",
+    "back": "No, a stylist should never destroy or alter a client record after a complaint or adverse reaction. The original record shows what was actually documented at the time. Any clarification is added as a new, dated note instead."
+  },
+  {
+    "id": 319,
+    "domain": "hair_and_scalp_care",
+    "front": "What is the correct technique for a scalp massage?",
+    "back": "Use the pads of the fingers, not the nails, and apply firm but comfortable pressure in slow circular or gliding movements that move the scalp over the skull rather than sliding over the hair surface. Work from the front hairline back toward the crown and nape to cover the whole scalp."
+  },
+  {
+    "id": 320,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by even application from root to end?",
+    "back": "Even application from root to end means the formula is worked through consistently along the entire length of each section, rather than concentrated in one area. Since roots, mid-lengths, and ends can process at different speeds due to porosity differences, timing the application carefully supports a uniform finished result. Uneven application is a common, avoidable cause of a patchy service."
+  },
+  {
+    "id": 321,
+    "domain": "cuts_hair",
+    "front": "What does it mean for a haircut to read as connected?",
+    "back": "A connected haircut has no visible break or step between adjacent sections, so the eye sees one continuous flowing shape rather than separate, distinct pieces. It usually results from a traveling guideline and consistent elevation from section to section. A disconnected cut deliberately breaks this continuity instead."
+  },
+  {
+    "id": 322,
+    "domain": "chemical_texture_services",
+    "front": "What technique should be used when smoothing during a relaxer service?",
+    "back": "The back of a comb or gloved fingers, using smooth, controlled strokes rather than aggressive pulling, to guide the hair straight while the chemical does the work."
+  },
+  {
+    "id": 323,
+    "domain": "styles_hair",
+    "front": "What does a leave in conditioner do?",
+    "back": "A leave in conditioner is applied after washing and is not rinsed out. It supplies ongoing moisture and slip that makes detangling easier and reduces the mechanical stress that causes breakage."
+  },
+  {
+    "id": 324,
+    "domain": "common_occupational_skills",
+    "front": "How long are client records and consent forms typically retained?",
+    "back": "They are retained for a period set by salon policy or provincial regulation. This applies to both records and signed consent forms. Retention supports both client safety and the salon's own documentation practice."
+  },
+  {
+    "id": 325,
+    "domain": "hair_and_scalp_care",
+    "front": "When should a scalp massage or vigorous manipulation be avoided?",
+    "back": "Avoid vigorous manipulation over any area with a scalp condition, a recent chemical service, or reported tenderness. Pressure should always be adjusted to the client's comfort."
+  },
+  {
+    "id": 326,
+    "domain": "alters_hair_colour",
+    "front": "What is box colour, and how does it differ from a professional service?",
+    "back": "Box colour refers to a pre-packaged, one-size-fits-all colour kit sold for home use, with a single fixed formula and ratio for every user. A professional service, by contrast, is custom formulated to the individual client's natural level, tone goals, and hair condition. This difference is one reason box colour can produce unpredictable results that a professional service later has to correct."
+  },
+  {
+    "id": 327,
+    "domain": "cuts_hair",
+    "front": "What is a low-maintenance haircut in terms of cutting structure?",
+    "back": "A low-maintenance haircut is generally built with a simpler guideline and cutting line structure that grows out gradually without losing its overall shape. Strong graduation and disconnection tend to require more frequent trims to hold their line. Consultation about the client's maintenance preference influences these structural choices."
+  },
+  {
+    "id": 328,
+    "domain": "chemical_texture_services",
+    "front": "Why should a stylist avoid forcing straightness with mechanical tension during a relaxer?",
+    "back": "It can break hair that is not yet ready to be moved that far. The goal is to guide the hair straight while the chemical breaks the bonds."
+  },
+  {
+    "id": 329,
+    "domain": "styles_hair",
+    "front": "What is a curl defining cream?",
+    "back": "A curl defining cream is generally heavier and richer than a leave in conditioner and carries some light styling hold. It is applied afterward to coat individual curl clumps, keep them grouped together, and reduce frizz along the surface of the curl."
+  },
+  {
+    "id": 330,
+    "domain": "common_occupational_skills",
+    "front": "Why does a new client need extra booking time?",
+    "back": "Extra time allows for a thorough consultation and any test a chemical service requires. This avoids a rushed decision under time pressure later in the appointment. An established client with a known history needs less additional time."
+  },
+  {
+    "id": 331,
+    "domain": "alters_hair_colour",
+    "front": "What does the term reflect mean in a finished colour result?",
+    "back": "Reflect refers to the visible warm or cool cast a finished hair colour gives off in light, and is essentially another name for tone. Two shades at the same level can have very different reflects, such as one appearing golden and another appearing ash. Choosing the right reflect is just as important to the finished look as choosing the right level."
+  },
+  {
+    "id": 332,
+    "domain": "cuts_hair",
+    "front": "Why start a fade with a shorter guard before longer ones?",
+    "back": "Starting with a shorter guard establishes the closest point of the fade first, giving the stylist a clear reference for how much length needs to be blended upward. Moving to progressively longer guards builds the gradient outward from that fixed point. Starting with a longer guard first makes the closest point harder to establish accurately."
+  },
+  {
+    "id": 333,
+    "domain": "chemical_texture_services",
+    "front": "What does a neutralizing shampoo do after a relaxer?",
+    "back": "It removes remaining alkaline residue from hair and scalp and helps stabilize the hair's pH back toward its normal range after a strongly alkaline product."
+  },
+  {
+    "id": 334,
+    "domain": "styles_hair",
+    "front": "What is the praying hands method?",
+    "back": "Product is placed between the two flat palms, and the hands are pressed together and smoothed down a section of hair from root to end in one motion. This distributes the product evenly and encourages the curl strands in that section to clump together into a defined shape."
+  },
+  {
+    "id": 335,
+    "domain": "common_occupational_skills",
+    "front": "What ripple effect does underestimating a service's length create?",
+    "back": "It delays every client booked afterward that day. This increases the temptation to skip a step, such as a patch test, to catch up. The effect extends well beyond the single appointment where it started."
+  },
+  {
+    "id": 336,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by colour banding, and why does it happen?",
+    "back": "Colour banding is a visible stripe or band of noticeably different colour along the hair, often resulting from uneven formula application, inconsistent processing time, or overlapping a new formula onto previously coloured hair. It is considered an undesirable, avoidable result rather than an intentional technique. Careful sectioning and timing during application help prevent banding from occurring."
+  },
+  {
+    "id": 337,
+    "domain": "cuts_hair",
+    "front": "What is meant by checking a haircut wet and again once dry?",
+    "back": "Checking wet confirms the guideline and elevation were executed as planned while the hair is easiest to see and control. Checking again once dry confirms how the finished shape actually reads once natural fall, movement, and any shrinkage take effect. Both checks together give a complete picture of the finished result."
+  },
+  {
+    "id": 338,
+    "domain": "chemical_texture_services",
+    "front": "How is a relaxer's neutralizing shampoo different from a perm's neutralizer?",
+    "back": "A perm neutralizer is an oxidizing solution that reforms disulfide bonds. A relaxer's neutralizing shampoo mainly normalizes pH and rinses out residual alkaline chemical, since much of the bond reformation happens during rinsing and smoothing."
+  },
+  {
+    "id": 339,
+    "domain": "styles_hair",
+    "front": "What does vigorously rubbing or scrunching product into curly hair do?",
+    "back": "Rubbing the hands together vigorously or scrunching product in roughly tends to disturb the curl pattern and increase frizz. Smoothing the product down in one controlled motion is the preferred method."
+  },
+  {
+    "id": 340,
+    "domain": "common_occupational_skills",
+    "front": "How does chronic lateness affect client retention?",
+    "back": "Clients who experience chronic delays or rushed services are less likely to rebook. Punctuality and reliable time management affect retention directly. This is a documented, predictable consequence of poor scheduling."
+  },
+  {
+    "id": 341,
+    "domain": "alters_hair_colour",
+    "front": "What is meant by the term client record card in a salon?",
+    "back": "A client record card is the ongoing file a salon keeps for each client, documenting services performed, formulas used, predisposition test dates and results, and any relevant notes such as allergies or sensitivities. It supports consistency across visits and protects both the client and the salon. Keeping it accurate and current is a basic professional responsibility."
+  },
+  {
+    "id": 342,
+    "domain": "cuts_hair",
+    "front": "What is a consultation card used for before a haircutting service?",
+    "back": "A consultation card records the client's stated preferences, face shape observations, hair texture notes, and any history relevant to the planned cut. It creates a reference the stylist can return to during the service and on future visits. It supports consistent, repeatable results across appointments."
+  },
+  {
+    "id": 343,
+    "domain": "chemical_texture_services",
+    "front": "Why is thorough rinsing before the neutralizing shampoo so important after a relaxer?",
+    "back": "Any relaxer left on scalp or hair keeps acting chemically until fully removed. Rinsing with plenty of water first, then using the neutralizing shampoo, prevents continued action after the service."
+  },
+  {
+    "id": 344,
+    "domain": "styles_hair",
+    "front": "What is styling gel, and what hold does it give?",
+    "back": "Gel is a water based formula built around a film forming polymer. As the water evaporates the polymer dries into a firm, sometimes hard coating that gives strong hold, which makes gel a good choice for slicked back styles or for locking a curl clump into its defined shape."
+  },
+  {
+    "id": 345,
+    "domain": "common_occupational_skills",
+    "front": "Why add buffer time around chemical processing services?",
+    "back": "Chemical services carry variable processing windows that can run longer than expected. Buffer time prevents a single delayed service from disrupting the rest of the schedule. This reflects professional scheduling judgment rather than overcaution."
+  },
+  {
+    "id": 346,
+    "domain": "alters_hair_colour",
+    "front": "What does the term oxidation mean in the context of permanent hair colour?",
+    "back": "Oxidation is the chemical reaction that occurs when hydrogen peroxide developer interacts with the colour molecules and the hair's natural pigment, allowing lift and deposit to occur. This reaction is what makes permanent colour lasting rather than a surface coating. Without oxidation, the small colour molecules could not join together and become trapped inside the hair shaft."
+  },
+  {
+    "id": 347,
+    "domain": "cuts_hair",
+    "front": "Why is client communication about length loss considered part of a haircutting consultation?",
+    "back": "Clients often describe desired length in general terms that can be interpreted differently from what the stylist intends to remove, especially with texturizing or heavy graduation. Confirming an approximate amount of length loss before cutting reduces the chance of a misunderstood result. This is especially important when planning for shrinkage on curly or coily textures."
+  },
+  {
+    "id": 348,
+    "domain": "chemical_texture_services",
+    "front": "Why is a leave-in conditioner or protein treatment often applied after a relaxer?",
+    "back": "It helps replace moisture and support hair structure. Relaxed hair is more porous and needs support between visits, though it is a finishing measure rather than a chemical necessity."
+  },
+  {
+    "id": 349,
+    "domain": "styles_hair",
+    "front": "What is a cast in a gel set style?",
+    "back": "A gel set style often dries with a stiff outer layer called a cast. It is meant to be broken up gently by hand once fully dry rather than styled while still wet."
+  },
+  {
+    "id": 350,
+    "domain": "common_occupational_skills",
+    "front": "How does a fixed processing wait affect scheduling decisions?",
+    "back": "A fixed processing wait cannot be rushed without compromising the service result. It can reasonably be used for a brief, separate task if planned well. Ignoring this fixed time when planning the day risks unnecessary delays elsewhere."
+  },
+  {
+    "id": 351,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour consultation form, and what basic information does it typically gather?",
+    "back": "A colour consultation form typically gathers the client's desired outcome, current hair condition, colour history, and any known sensitivities before a service begins. It structures the conversation so nothing important is missed during a busy appointment. Using it consistently supports both safety and a more predictable formulation decision."
+  },
+  {
+    "id": 352,
+    "domain": "cuts_hair",
+    "front": "What is a stationary guide in haircutting?",
+    "back": "A stationary guide is one fixed length that every section of hair is combed to and cut against. It keeps the perimeter consistent because each new section is measured against the same unmoving reference point rather than the previous section."
+  },
+  {
+    "id": 353,
+    "domain": "chemical_texture_services",
+    "front": "What is a predisposition test (patch test)?",
+    "back": "A test that checks whether a client will have an allergic reaction to a chemical product before it is used on the whole head, by applying a small amount to a small area of skin behind the ear or on the inner arm."
+  },
+  {
+    "id": 354,
+    "domain": "styles_hair",
+    "front": "What is mousse, and what hold does it give?",
+    "back": "Mousse is a foam, a liquid formula that has been aerated so it distributes lightly and evenly through the hair. It provides light to medium hold with added volume and lift, particularly when applied at the root, without weighing the hair down."
+  },
+  {
+    "id": 355,
+    "domain": "common_occupational_skills",
+    "front": "What does the Red Seal endorsement allow a certified tradesperson to do?",
+    "back": "It allows their certification to be recognized across Canada. This happens without requalifying in each province or territory they choose to work in. It is earned by passing the national Red Seal exam."
+  },
+  {
+    "id": 356,
+    "domain": "alters_hair_colour",
+    "front": "What is hair elasticity, and why check it before colouring?",
+    "back": "Hair elasticity describes how well a strand stretches and returns to its original length without breaking, which reflects the strength of its internal protein structure. Checking elasticity before a colour service, especially one involving significant lift, helps a stylist judge whether the hair can safely tolerate the planned formula. Poor elasticity is a warning sign that a more conservative approach is needed."
+  },
+  {
+    "id": 357,
+    "domain": "cuts_hair",
+    "front": "What is a travelling guide?",
+    "back": "A travelling guide moves around the head as the cut progresses, with each new section cut to match the length of the section immediately before it. It is used to build graduation or layering where the length changes from section to section. A stationary guide, by contrast, holds one fixed length across all sections for a one-length or blunt perimeter result."
+  },
+  {
+    "id": 358,
+    "domain": "chemical_texture_services",
+    "front": "How long before the service should a predisposition test be performed?",
+    "back": "Generally 24 to 48 hours before the actual service, so a delayed reaction has time to appear before the client is exposed to the full product."
+  },
+  {
+    "id": 359,
+    "domain": "styles_hair",
+    "front": "What is hairspray, and when is it applied?",
+    "back": "Hairspray is a finishing product applied at the end of a style to hold the finished shape in place. It works through film forming resins suspended in an alcohol or water carrier that flash off and leave a light polymer film on the surface of the hair."
+  },
+  {
+    "id": 360,
+    "domain": "common_occupational_skills",
+    "front": "Does a Red Seal endorsement remove the need for provincial registration?",
+    "back": "No, each province and territory still issues its own licence. A stylist moving to a new province must register with that province's regulatory authority. Licensing to practise remains a provincial responsibility even with the Red Seal."
+  },
+  {
+    "id": 361,
+    "domain": "alters_hair_colour",
+    "front": "What is a virgin hair colour application?",
+    "back": "A colour service placed on hair that has never been chemically treated before. The cuticle is intact and even along the whole strand, so the stylist works on a clean, even base rather than one that already holds artificial colour."
+  },
+  {
+    "id": 362,
+    "domain": "cuts_hair",
+    "front": "Why is texturizing kept away from the scalp?",
+    "back": "Cutting bulk out too close to the root leaves very short hair that stands up once it regrows, creating a spiky or fuzzy area near the hairline. Working the technique mid-shaft or at the ends avoids this problem."
+  },
+  {
+    "id": 363,
+    "domain": "chemical_texture_services",
+    "front": "When is a predisposition test required?",
+    "back": "Before a client's first chemical service with a given product line, and repeated whenever a new product or formula is introduced, since sensitivity can be specific to a particular chemical."
+  },
+  {
+    "id": 364,
+    "domain": "styles_hair",
+    "front": "What are the hairspray hold levels?",
+    "back": "Hairspray hold ranges from a light, flexible hold that is brushed through and allows natural movement up to a strong, firm hold meant to withstand humidity and hours of wear. The strong, firm category is most often used to finish an updo or a special occasion style."
+  },
+  {
+    "id": 365,
+    "domain": "common_occupational_skills",
+    "front": "What sets apprenticeship training hour requirements for the trade?",
+    "back": "Each province and territory sets its own required hours of training. This happens even though exam content is developed to a common national standard. The specific hour requirement varies by the apprentice's home province."
+  },
+  {
+    "id": 366,
+    "domain": "alters_hair_colour",
+    "front": "In a virgin application, why is colour put on the mid-lengths and ends before the scalp?",
+    "back": "The mid-lengths and ends process more slowly, while the scalp area develops faster because of body heat. Starting the slower zones first lets them begin developing sooner so the finished colour is even from root to end."
+  },
+  {
+    "id": 367,
+    "domain": "cuts_hair",
+    "front": "What hair type is least suited to razor cutting?",
+    "back": "Very curly or coily hair is generally not suited to razor cutting. The diagonal cut increases the surface area at the cutting point, which weakens fragile curl strands and raises the risk of split ends and frizz."
+  },
+  {
+    "id": 368,
+    "domain": "chemical_texture_services",
+    "front": "What does a strand test check that a predisposition test does not?",
+    "back": "A strand test looks at how the hair itself responds to the process, treating a small strand with the actual product and method and checking curl, straightness, colour result, or condition, rather than checking for an allergic reaction."
+  },
+  {
+    "id": 369,
+    "domain": "styles_hair",
+    "front": "Which ingredient is responsible for the smoothing effect of a finishing serum?",
+    "back": "Silicone, often listed under names such as dimethicone, is responsible for the smoothing effect of a finishing serum."
+  },
+  {
+    "id": 370,
+    "domain": "common_occupational_skills",
+    "front": "Name two professional conduct expectations tied to licensing.",
+    "back": "Maintaining client confidentiality and practising within the scope of the trade are two examples. Honesty in advertising services and pricing is another. These flow from both regulatory framework and workplace norms."
+  },
+  {
+    "id": 371,
+    "domain": "alters_hair_colour",
+    "front": "Why is the scalp area left until last in a virgin application?",
+    "back": "Body heat at the scalp speeds up colour development. Applying colour there last keeps it from developing ahead of the rest of the strand and turning darker than the ends."
+  },
+  {
+    "id": 372,
+    "domain": "cuts_hair",
+    "front": "What blade angle does razor cutting use?",
+    "back": "A razor is drawn through the hair at a shallow angle, well under forty five degrees to the section. This tapers each strand to a fine point rather than cutting straight across it."
+  },
+  {
+    "id": 373,
+    "domain": "chemical_texture_services",
+    "front": "Why is skipping a predisposition test on a first-time client a serious safety lapse?",
+    "back": "A reaction during a full service is far harder to manage than one confined to a small test patch."
+  },
+  {
+    "id": 374,
+    "domain": "styles_hair",
+    "front": "What do silicones do to the hair?",
+    "back": "Silicones coat the outside of the hair shaft, sealing down the cuticle and filling in surface irregularities. This reduces frizz, adds shine, and lowers porosity."
+  },
+  {
+    "id": 375,
+    "domain": "common_occupational_skills",
+    "front": "Does professional conduct only apply after a formal complaint?",
+    "back": "No, a stylist letting skills slip below the certified standard is a concern on its own. This applies even without any complaint being filed. Professional conduct expectations are ongoing, not triggered only by complaints."
+  },
+  {
+    "id": 376,
+    "domain": "alters_hair_colour",
+    "front": "What is a root retouch service?",
+    "back": "Colouring only the new growth at the scalp on hair that already has colour on the mid-lengths and ends. Processing time is judged by the new growth, not by the ends."
+  },
+  {
+    "id": 377,
+    "domain": "cuts_hair",
+    "front": "Define a skin fade.",
+    "back": "A skin fade is a graduated clipper cut that starts at bare skin at its lowest point, usually the hairline or temple. It then blends upward through progressively longer guards into the longer hair on top."
+  },
+  {
+    "id": 378,
+    "domain": "chemical_texture_services",
+    "front": "What does each of the two pre-service tests protect?",
+    "back": "The predisposition test protects the client's health from an allergic reaction, and the strand test protects the condition and predictability of the finished result."
+  },
+  {
+    "id": 379,
+    "domain": "styles_hair",
+    "front": "How is silicone build up removed?",
+    "back": "Most silicones used in these products are not water soluble, so build up over repeated use generally needs a clarifying, sulfate based shampoo to fully remove. A regular gentle shampoo will not clear it."
+  },
+  {
+    "id": 380,
+    "domain": "common_occupational_skills",
+    "front": "How long should an eye be flushed after a chemical splash?",
+    "back": "The eye should be flushed continuously with clean, lukewarm water for a full fifteen minutes. The eyelid is held open so the flow reaches the whole eye. Medical attention is sought regardless of how the eye looks afterward."
+  },
+  {
+    "id": 381,
+    "domain": "alters_hair_colour",
+    "front": "What happens if full-strength retouch colour overlaps previously coloured hair?",
+    "back": "It deposits extra pigment there and is a common cause of visible banding and of colour that looks darker than intended. A careful retouch stays off the old colour, blending only the last half inch lightly at the end of processing if a slight refresh is wanted."
+  },
+  {
+    "id": 382,
+    "domain": "cuts_hair",
+    "front": "Define a taper.",
+    "back": "A taper is a graduated clipper cut that shortens the perimeter gradually, typically at the nape and around the ears. Unlike a skin fade, it never brings the hair all the way down to bare skin."
+  },
+  {
+    "id": 383,
+    "domain": "chemical_texture_services",
+    "front": "How do keratin smoothing treatments differ from a relaxer?",
+    "back": "Rather than permanently reforming disulfide bonds, many coat and bond a protein layer to the hair shaft, then use flat-iron heat to seal it in place, smoothing the cuticle and reducing frizz for a period before it washes out."
+  },
+  {
+    "id": 384,
+    "domain": "styles_hair",
+    "front": "Why is a styling trial standard practice for bridal work?",
+    "back": "A trial before the event date lets the stylist and client agree on the shape and confirm that the style holds up over time. Bridal results must last many hours through photos, a ceremony, and a reception."
+  },
+  {
+    "id": 385,
+    "domain": "common_occupational_skills",
+    "front": "What is the first response to a minor shear or razor cut?",
+    "back": "Direct pressure is applied with a clean dressing until bleeding stops. The area is then cleaned and a bandage applied. A deep cut that will not stop bleeding is referred for medical attention."
+  },
+  {
+    "id": 386,
+    "domain": "alters_hair_colour",
+    "front": "What does clean, even sectioning accomplish during a colour application?",
+    "back": "It lets the stylist control saturation and timing consistently across the whole head. A rushed or uneven sectioning pattern is a common, preventable cause of patchy results."
+  },
+  {
+    "id": 387,
+    "domain": "cuts_hair",
+    "front": "What motion blends clipper guard transitions?",
+    "back": "A short, flicking, over-comb style motion worked through each transition zone melts adjacent guard lengths into one another. This removes the visible banding a single long stroke would leave behind."
+  },
+  {
+    "id": 388,
+    "domain": "chemical_texture_services",
+    "front": "Why can keratin smoothing treatments be a health concern?",
+    "back": "Some formulas release formaldehyde or formaldehyde-releasing ingredients when heated with a flat iron. Formaldehyde vapour is a recognized health hazard with repeated exposure."
+  },
+  {
+    "id": 389,
+    "domain": "styles_hair",
+    "front": "How should the shape and height of a bridal updo suit the gown neckline?",
+    "back": "The updo should suit the neckline of the gown. A high, structured neckline generally pairs well with an updo that keeps the neck and shoulders visible, while a more open or strapless neckline can support more volume or a style worn closer to the shoulders."
+  },
+  {
+    "id": 390,
+    "domain": "common_occupational_skills",
+    "front": "Name two electrical or chemical fire hazards specific to a salon.",
+    "back": "Overloaded outlets running multiple heat styling tools are one hazard. Flammable aerosol products stored near heat sources are another. Both are specific fire safety concerns tied to the hairstyling trade."
+  },
+  {
+    "id": 391,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between applying colour with a bowl and brush and applying it with a bottle?",
+    "back": "A bowl and brush gives the stylist fine control over saturation and precise placement, which suits painting and corrective work. A bottle applies colour faster and more evenly across large areas but with less control over the exact amount on each section."
+  },
+  {
+    "id": 392,
+    "domain": "cuts_hair",
+    "front": "What is disconnection in men's cutting?",
+    "back": "Disconnection is cutting one length or texture sharply against another with no blended transition between them. It creates a deliberate, visible contrast and is common in graphic men's clipper design work."
+  },
+  {
+    "id": 393,
+    "domain": "chemical_texture_services",
+    "front": "What precautions are required for a formaldehyde-releasing smoothing treatment?",
+    "back": "Strong ventilation is required, and some jurisdictions restrict or require disclosure of formaldehyde content. The stylist needs to know what is in the product and follow its precautions."
+  },
+  {
+    "id": 394,
+    "domain": "styles_hair",
+    "front": "What techniques and supplies extend how long a special occasion style holds?",
+    "back": "A firm backcombed foundation, secure and evenly placed pinning, and a strong hold finishing product extend how long the style holds. Humidity resistant styling products and a supply of extra pins on hand are reasonable contingencies for outdoor portions of a wedding day."
+  },
+  {
+    "id": 395,
+    "domain": "common_occupational_skills",
+    "front": "What should a stylist do if a fire is spreading, not contained?",
+    "back": "The stylist should evacuate and call emergency services. A spreading fire should never be fought personally. This differs from a small, contained fire, where an extinguisher may be appropriate."
+  },
+  {
+    "id": 396,
+    "domain": "alters_hair_colour",
+    "front": "What factors together determine how many levels of lift the hair achieves?",
+    "back": "The strength of the developer, the strength of the lightener formula, and the length of processing time. All three work together to set the level of lift the hair reaches."
+  },
+  {
+    "id": 397,
+    "domain": "cuts_hair",
+    "front": "How should a beard's cheek line be placed?",
+    "back": "The cheek line should follow the natural upper boundary where the client's own beard growth thins out. A line cut well above that boundary tends to look artificial and disconnected from the client's real pattern."
+  },
+  {
+    "id": 398,
+    "domain": "chemical_texture_services",
+    "front": "Why do even formaldehyde-free smoothing formulas still require ventilation?",
+    "back": "They can still release irritating fumes when heated, so good ventilation and a well-fitted mask where recommended are standard precautions for the whole category."
+  },
+  {
+    "id": 399,
+    "domain": "styles_hair",
+    "front": "What is hair wax, and what is it best used for?",
+    "back": "A hair wax is a heavier, pliable style product that gives flexible, moldable hold with low shine. It is good for piecey, separated looks and short hair, and it stays reworkable rather than drying into a hard cast."
+  },
+  {
+    "id": 400,
+    "domain": "common_occupational_skills",
+    "front": "What is the value of participating in a scheduled fire drill?",
+    "back": "Regular fire drills keep evacuation knowledge usable under real pressure. This applies even to experienced staff who already know the route. Practising the response makes it more reliable during an actual emergency."
+  },
+  {
+    "id": 401,
+    "domain": "alters_hair_colour",
+    "front": "Why must lightening be monitored visually rather than by the clock alone?",
+    "back": "Porosity, natural level, and previous chemical history all change how fast a given head of hair lifts. Time is only a guide, so the stylist reads the actual lift as it develops."
+  },
+  {
+    "id": 402,
+    "domain": "cuts_hair",
+    "front": "How should a beard neckline be placed?",
+    "back": "The neckline sits just above the natural break where the client's neck hair growth stops. Cutting well below that point removes more beard than most clients actually want."
+  },
+  {
+    "id": 403,
+    "domain": "chemical_texture_services",
+    "front": "What should a client be told about flat-ironing during a smoothing treatment?",
+    "back": "That they may notice odour or eye irritation, which is normal and is not a sign something has gone wrong."
+  },
+  {
+    "id": 404,
+    "domain": "styles_hair",
+    "front": "What is styling clay, and what is it best used for?",
+    "back": "A styling clay is a thicker, drier product that gives firm, pliable texture and strong hold with a matte finish. It is suited to thick or coarse hair and to styles that need volume and separation without shine."
+  },
+  {
+    "id": 405,
+    "domain": "alters_hair_colour",
+    "front": "What causes breakage from overprocessing?",
+    "back": "Pushing the hair's protein structure past what it can tolerate, most often from overlapping lightener sessions, leaving a chemical service on longer than the hair supports, or combining a chemical texture service with colour too close together. Breakage cannot be reversed once it happens."
+  },
+  {
+    "id": 406,
+    "domain": "cuts_hair",
+    "front": "What tool blends a longer beard's length?",
+    "back": "Shears are used to blend length and remove bulk on longer beards, the same way they would on a haircut. Point cutting the ends keeps the edge soft rather than hard and blunt."
+  },
+  {
+    "id": 407,
+    "domain": "chemical_texture_services",
+    "front": "Why is personal protective equipment standard for every chemical texture service?",
+    "back": "Gloves protect the stylist's hands from repeated contact, which can cause skin sensitization even in a stylist who has never reacted before."
+  },
+  {
+    "id": 408,
+    "domain": "styles_hair",
+    "front": "Why might a finished style not hold, and how do you correct it?",
+    "back": "A style that will not hold usually lacks a firm foundation, enough hold in the product, or secure anchoring. Strengthen the backcombed base, use evenly placed secure pinning, and finish with a strong hold, humidity resistant product."
+  },
+  {
+    "id": 409,
+    "domain": "alters_hair_colour",
+    "front": "What is a bleach bath?",
+    "back": "A diluted, gentler version of lightening made by mixing a small amount of lightening powder with developer and shampoo. The shampoo base works through the hair like a shampoo rather than being painted on as a thick paste, which dilutes the active agents and produces a softer, slower lift."
+  },
+  {
+    "id": 410,
+    "domain": "cuts_hair",
+    "front": "Why is curly hair often cut dry?",
+    "back": "Water temporarily relaxes and elongates the curl pattern, hiding how the hair will actually sit once it dries. Cutting dry shows the stylist the true curl pattern and the real shrinkage before any length is removed."
+  },
+  {
+    "id": 411,
+    "domain": "chemical_texture_services",
+    "front": "When might a stylist need eye protection or a mask during a chemical service?",
+    "back": "Particularly with strong fumes or when mixing concentrated chemicals rather than using a ready-to-use formula."
+  },
+  {
+    "id": 412,
+    "domain": "styles_hair",
+    "front": "What are common visible signs of thermal damage?",
+    "back": "Split ends, where the outer layer of the shaft separates at the tip, are one of the most visible signs, along with breakage partway along a strand rather than at the end. Heat damaged hair may also look duller and feel rougher than healthy hair nearby."
+  },
+  {
+    "id": 413,
+    "domain": "alters_hair_colour",
+    "front": "When is a bleach bath used?",
+    "back": "To soften previously colour-treated hair, to remove buildup of old artificial colour gently, or to lighten hair by a small controlled amount when a full-strength lightener would be too aggressive for its condition."
+  },
+  {
+    "id": 414,
+    "domain": "cuts_hair",
+    "front": "Define shrinkage in curly hair.",
+    "back": "Shrinkage is the difference between a curl's stretched length and its resting length once dry. On tightly coiled hair it can be substantial, sometimes drawing the hair up to nearly half its stretched length."
+  },
+  {
+    "id": 415,
+    "domain": "chemical_texture_services",
+    "front": "Why does ventilation matter throughout every chemical service?",
+    "back": "Perm and relaxer solutions release noticeable fumes, and good airflow protects both stylist and client from prolonged exposure over a working day. One small fan is not the same as a properly ventilated area."
+  },
+  {
+    "id": 416,
+    "domain": "styles_hair",
+    "front": "What does a loss of elasticity in heat damaged hair look like?",
+    "back": "Healthy hair stretches slightly under gentle tension and springs back, while heat damaged hair is more likely to snap or to stretch and stay stretched without recovering its shape. This is a subtle but important sign of thermal damage."
+  },
+  {
+    "id": 417,
+    "domain": "alters_hair_colour",
+    "front": "What is a shampoo-in colour application?",
+    "back": "A colour worked through the hair like a shampoo, often on damp hair, so the product spreads evenly and coats the strands lightly before being processed and rinsed. The bleach bath in this chapter is described as being worked through this way."
+  },
+  {
+    "id": 418,
+    "domain": "cuts_hair",
+    "front": "What is curl-by-curl cutting?",
+    "back": "Curl-by-curl cutting assesses and cuts each curl or small cluster individually to its own natural fall. It accounts for curls of the same stretched length shrinking to different resting lengths across the head."
+  },
+  {
+    "id": 419,
+    "domain": "chemical_texture_services",
+    "front": "Why must manufacturer timing and mixing instructions be followed exactly?",
+    "back": "Every product is formulated and tested at a specific concentration and processing window. Leaving product on longer does not simply produce a stronger result; it increases the risk of overprocessing and damage, and mixing at the wrong ratio can be unsafe."
+  },
+  {
+    "id": 420,
+    "domain": "styles_hair",
+    "front": "What practices prevent thermal damage?",
+    "back": "Apply a heat protectant before every thermal tool use, choose the lowest temperature that will still achieve the result, and avoid repeated passes over the same section. Well maintained tools with accurate temperature displays and evenly heating ceramic or tourmaline coated surfaces reduce hot spots, and regular deep conditioning plus recovery time between a chemical service and heavy heat supports the hair."
+  },
+  {
+    "id": 421,
+    "domain": "alters_hair_colour",
+    "front": "When is a colour product worked through and shampooed out rather than simply rinsed?",
+    "back": "When the goal is to soften or loosen the product before it is removed, such as in a gentle colour removal or a bleach bath. Working it through like a shampoo dilutes and distributes the product across the hair before it is rinsed away."
+  },
+  {
+    "id": 422,
+    "domain": "cuts_hair",
+    "front": "What risk comes with heavy layering on curly hair?",
+    "back": "Removing too much underlying weight can loosen a curl's definition and cause the finished shape to lose its form. Enough weight is usually left in place to help the curl pattern hold together."
+  },
+  {
+    "id": 423,
+    "domain": "chemical_texture_services",
+    "front": "How should chemical texture products be stored and labelled?",
+    "back": "Generally in a cool area away from direct light, with containers closed and clearly labelled, and never transferred into unlabelled containers, so timing, concentration, and first aid information can be checked quickly."
+  },
+  {
+    "id": 424,
+    "domain": "alters_hair_colour",
+    "front": "What is a toner?",
+    "back": "A demi-permanent or semi-permanent colour, usually low in developer volume, applied after lightening to neutralize underlying warmth and deposit the client's desired finished tone."
+  },
+  {
+    "id": 425,
+    "domain": "cuts_hair",
+    "front": "What is cross-checking?",
+    "back": "Cross-checking re-parts the hair in a direction different from the one used while cutting, then compares each new section against its neighbours. It reveals unevenness the original partings could not show."
+  },
+  {
+    "id": 426,
+    "domain": "chemical_texture_services",
+    "front": "What is the clearest sign of overprocessed hair?",
+    "back": "Breakage. Hair that snaps easily when gently stretched, or comes away in the comb or fingers during rinsing, has lost the integrity to hold together."
+  },
+  {
+    "id": 427,
+    "domain": "alters_hair_colour",
+    "front": "Why are toners mixed at a low developer volume?",
+    "back": "Because a toner deposits colour rather than lifting it. A low developer volume lets the tone settle onto the lightened hair gently without breaking the hair down further or lifting it lighter."
+  },
+  {
+    "id": 428,
+    "domain": "cuts_hair",
+    "front": "How is a vertically sectioned cut cross-checked?",
+    "back": "A cut built on vertical sections is cross-checked with horizontal partings, combed flat and compared section to section. The direction change is what exposes hidden length differences."
+  },
+  {
+    "id": 429,
+    "domain": "chemical_texture_services",
+    "front": "What is the earliest and most reliable sign of overprocessing?",
+    "back": "A mushy or gummy texture while wet. Overprocessed wet hair feels soft, mushy, or gelatinous because the internal structure has broken down, and the stylist should stop and move to neutralizing or rinsing."
+  },
+  {
+    "id": 430,
+    "domain": "alters_hair_colour",
+    "front": "How should a toner or gloss be applied for an even result?",
+    "back": "It is worked through the hair so every strand is evenly coated, then processed and rinsed. Because toners fade faster than the underlying lift, a maintenance toning schedule keeps the tone from turning warm."
+  },
+  {
+    "id": 431,
+    "domain": "cuts_hair",
+    "front": "Why check balance with the client's head level?",
+    "back": "A cut that looks balanced while the head is tilted can appear uneven once the head returns to a natural, level position. Checking with the head level gives an accurate final assessment."
+  },
+  {
+    "id": 432,
+    "domain": "chemical_texture_services",
+    "front": "How does loss of elasticity show overprocessing?",
+    "back": "Healthy hair stretches a small, predictable amount and returns close to its original length. Overprocessed hair either barely stretches before breaking, or stretches excessively without springback."
+  },
+  {
+    "id": 433,
+    "domain": "alters_hair_colour",
+    "front": "What is the technique of foiling for highlights?",
+    "back": "Isolating a woven section of hair, coating it with lightener or colour, and folding foil around it to hold in heat and keep the treated strands separate from the untouched hair beside them."
+  },
+  {
+    "id": 434,
+    "domain": "cuts_hair",
+    "front": "How is an over-thinned area near the scalp corrected?",
+    "back": "It generally cannot be corrected in the same visit, since the short regrowth needs time to grow out before it blends. This is why texturizing is always worked well away from the root."
+  },
+  {
+    "id": 435,
+    "domain": "chemical_texture_services",
+    "front": "What should a chemical service record include?",
+    "back": "The exact product and formula (brand and strength), the processing time applied, the rod size and wrapping pattern (for a perm) or application technique (for a relaxer), and the hair's condition observed before the service, plus any test results and reactions."
+  },
+  {
+    "id": 436,
+    "domain": "alters_hair_colour",
+    "front": "How do a fine tight weave and a thick chunky weave change a foil highlight?",
+    "back": "A fine tight weave lifts a small percentage of the hair and gives a subtle, blended result. A thick chunky weave lifts more hair and gives bold, visible streaks."
+  },
+  {
+    "id": 437,
+    "domain": "cuts_hair",
+    "front": "How is uneven length between two sides corrected?",
+    "back": "The stylist identifies the shorter side and brings the longer side down to match it. Hair can only be taken shorter, never added back, so the shorter side becomes the reference."
+  },
+  {
+    "id": 438,
+    "domain": "alters_hair_colour",
+    "front": "Why does foiling allow more than one formula in the same head at once?",
+    "back": "Each foil is independent of the others, so one foil can be checked and removed while a gentler foil elsewhere keeps processing. This independence is the basis of multi-tonal work."
+  },
+  {
+    "id": 439,
+    "domain": "cuts_hair",
+    "front": "What produces a visible step in clipper-over-comb work?",
+    "back": "An inconsistent comb angle or inconsistent clipper pressure during a pass produces a visible step or ridge in the graduated line. Steady angle and pressure throughout the pass prevent it."
+  },
+  {
+    "id": 440,
+    "domain": "alters_hair_colour",
+    "front": "What is a highlighting cap and what are its limits?",
+    "back": "An older method in which a perforated cap is placed on the head and strands are pulled through the holes with a hook before lightener or colour is applied. It gives a fine, uniform highlight but cannot easily produce bold placement or multi-formula work, and it is uncomfortable on curly or very short hair."
+  },
+  {
+    "id": 441,
+    "domain": "cuts_hair",
+    "front": "What is the final check before a client leaves the chair?",
+    "back": "The final check is a dry, styled check, since a cut can look even while wet or under tension. Only once it is dried and styled the way the client actually wears it does real unevenness become visible."
+  },
+  {
+    "id": 442,
+    "domain": "alters_hair_colour",
+    "front": "What is balayage?",
+    "back": "A freehand technique in which lightener or colour is painted directly onto the surface of the hair with a brush, without foil. A backing paper or plastic board is often held behind the section to keep product off the hair underneath."
+  },
+  {
+    "id": 443,
+    "domain": "cuts_hair",
+    "front": "Why should sections be checked against neighbouring sections?",
+    "back": "Comparing each newly cut section to the one before it helps catch a length difference early, before it compounds across the whole head. It is a routine control step during layering and graduation."
+  },
+  {
+    "id": 444,
+    "domain": "alters_hair_colour",
+    "front": "How is saturation and transition controlled in balayage?",
+    "back": "By hand, feathering the product so it is heaviest at the ends and lightest near the root, which produces a soft, gradual transition rather than a hard line. Consistent brush pressure and disciplined section size are required to avoid uneven lift."
+  },
+  {
+    "id": 445,
+    "domain": "cuts_hair",
+    "front": "What causes a section to appear too short after cutting?",
+    "back": "Overstretching the section with heavy tension before cutting pulls it past where it will actually rest once released. The section then looks shorter than its neighbours once the tension is gone."
+  },
+  {
+    "id": 446,
+    "domain": "alters_hair_colour",
+    "front": "What defines an ombre look?",
+    "back": "A strong, deliberate transition from a darker base near the root to a noticeably lighter end. Ombre is defined by the amount of contrast and the width of the transition zone, not by the tool used to create it."
+  },
+  {
+    "id": 447,
+    "domain": "cuts_hair",
+    "front": "What is the purpose of point cutting?",
+    "back": "Point cutting holds the shears vertically and cuts into the ends, opening small notches rather than a single straight line. It softens a blunt edge and adds texture without removing much length."
+  },
+  {
+    "id": 448,
+    "domain": "alters_hair_colour",
+    "front": "What is root smudging or root shadowing?",
+    "back": "A demi-permanent or semi-permanent shade close to the client's natural level blended into the first inch or two below the root to soften the line between colour and natural regrowth or a lightened section. It is commonly done at the same visit as a balayage or highlight service, and it is also a corrective step when a previous colourist left a visible line."
+  },
+  {
+    "id": 449,
+    "domain": "cuts_hair",
+    "front": "What is the purpose of thinning shears?",
+    "back": "Thinning shears remove only a portion of the strands caught between their teeth on each pass. This reduces bulk gradually through a section rather than removing an entire piece of length at once."
+  },
+  {
+    "id": 450,
+    "domain": "alters_hair_colour",
+    "front": "What is the correct sequence of a corrective colour service?",
+    "back": "Assess and test first using a strand test, porosity check, and metallic salt test if history is uncertain, then remove what needs removing with a colour reducer or bleach bath, then correct the base with a filler and lighten only if the hair's condition supports it, and only then tone and deposit the final target shade."
+  },
+  {
+    "id": 451,
+    "domain": "cuts_hair",
+    "front": "What is the difference between graduation and uniform layering?",
+    "back": "Graduation uses low to moderate elevation and stacks weight at the perimeter, producing a heavier, more solid edge. Uniform layering instead uses a consistent higher elevation, often ninety degrees, to spread volume evenly through the whole head."
+  },
+  {
+    "id": 452,
+    "domain": "alters_hair_colour",
+    "front": "What happens when a corrective service skips ahead in that sequence?",
+    "back": "Toning before the underlying warmth is neutralized, or putting a target shade directly onto porous, unfilled hair, turns a correctable problem into a service that has to be redone."
+  },
+  {
+    "id": 453,
+    "domain": "cuts_hair",
+    "front": "What elevation is typical for a graduated bob's stack?",
+    "back": "A low elevation, well under ninety degrees, is typically used to build the tight, weighted stack at the nape. Raising the elevation slightly softens the stack instead of intensifying it."
+  },
+  {
+    "id": 454,
+    "domain": "alters_hair_colour",
+    "front": "Why must each stage of a corrective service be tested rather than assumed?",
+    "back": "Testing at each stage confirms the previous step worked as planned instead of assuming it did. This is the difference between a controlled corrective service and one that compounds the original problem, and documenting the formulas and times provides a reliable record for later work."
+  },
+  {
+    "id": 455,
+    "domain": "cuts_hair",
+    "front": "What is a common front variation on a graduated bob?",
+    "back": "The front pieces are often left longer than the back for a soft, face-framing angle, while the back keeps the typical stacked graduation. This is a standard variation rather than an exception to the technique."
+  },
+  {
+    "id": 456,
+    "domain": "alters_hair_colour",
+    "front": "What sequence of underlying pigments does hair pass through as it lifts?",
+    "back": "From red and red-orange at the lower levels, through orange and gold, into pale yellow at the highest levels of lift. The toner must be matched to the pigment actually left in the hair."
+  },
+  {
+    "id": 457,
+    "domain": "cuts_hair",
+    "front": "What defines a square layered shape?",
+    "back": "A square layered shape pairs a solid, geometric perimeter with soft internal layering. The outer edge stays sharp and box-like while the interior underneath is elevated and layered to move freely."
+  },
+  {
+    "id": 458,
+    "domain": "alters_hair_colour",
+    "front": "Which toner base neutralizes yellow and why?",
+    "back": "A violet-based toner, because violet sits opposite yellow on the colour wheel and the two cancel each other out. This is why most pale blonde toners lean violet or violet-ash, since yellow is the residual warmth at the highest levels of lift."
+  },
+  {
+    "id": 459,
+    "domain": "cuts_hair",
+    "front": "How does interior elevation compare with perimeter elevation in a square layered shape?",
+    "back": "The interior is elevated to a moderate or high angle to remove bulk, while the solid outer perimeter is cut at a much lower elevation. This contrast keeps the outline crisp while the interior stays mobile."
+  },
+  {
+    "id": 460,
+    "domain": "alters_hair_colour",
+    "front": "Which toner base neutralizes orange?",
+    "back": "A blue-based toner, because blue is the complementary colour sitting opposite orange on the wheel. Blue-based toners are the correct choice for taming an orange cast, most often seen at the lower to mid lightening levels."
+  },
+  {
+    "id": 461,
+    "domain": "cuts_hair",
+    "front": "What risk exists in square layered cutting?",
+    "back": "The perimeter can round off into an unintentional graduated shape if the guideline is only checked against the previous section. Cross-checking against the original reference points prevents this drift."
+  },
+  {
+    "id": 462,
+    "domain": "alters_hair_colour",
+    "front": "Why will a violet toner not fully neutralize strongly orange hair?",
+    "back": "Violet and orange are not complementary, so the violet does not cancel the orange. The result is a muddy tone rather than a clean neutral."
+  },
+  {
+    "id": 463,
+    "domain": "cuts_hair",
+    "front": "Why is clipper-over-comb used at the nape and sides?",
+    "back": "It produces a close, evenly graduated cut at very short lengths where scissor-over-comb would be slower and harder to keep consistent. The comb sets the angle while the clippers cut along its teeth."
+  },
+  {
+    "id": 464,
+    "domain": "alters_hair_colour",
+    "front": "Why is choosing the wrong toner base a common corrective-colour error?",
+    "back": "It requires reading the pigment actually present in the hair rather than following a formula from memory. A stylist must match the toner to the hair in front of them rather than to the level they expected."
+  },
+  {
+    "id": 465,
+    "domain": "cuts_hair",
+    "front": "What controls graduation depth in clipper-over-comb?",
+    "back": "The angle the comb is held away from the scalp controls how much length is left behind in clipper-over-comb work. A flatter comb angle produces a closer, tighter graduation, while a raised angle leaves more length."
+  },
+  {
+    "id": 466,
+    "domain": "alters_hair_colour",
+    "front": "What is a brassy or orange result after a colour service usually a sign of?",
+    "back": "The underlying warm pigment showing through a colour that did not fully neutralize it. The warmth was exposed by lightening and then left uncancelled by the shade selected."
+  },
+  {
+    "id": 467,
+    "domain": "cuts_hair",
+    "front": "Why should sections be taken thinner for razor cutting?",
+    "back": "A razor removes more bulk per pass than a shear cut of similar length, because it cuts along a longer diagonal surface. Taking sections thinner helps the stylist control how much bulk is actually removed."
+  },
+  {
+    "id": 468,
+    "domain": "alters_hair_colour",
+    "front": "What is the first question to answer when correcting brassiness?",
+    "back": "Whether the hair actually lifted to a high enough level to support the intended tone. No toner can turn genuinely under-lightened orange hair into a true ash blonde, because toner deposits colour and does not lift."
+  },
+  {
+    "id": 469,
+    "domain": "cuts_hair",
+    "front": "Why is razor cutting harder on very coarse hair?",
+    "back": "Coarse hair has greater strand diameter, which resists the shallow blade angle a razor needs for a clean cut. This makes controlled razor work more challenging on coarse, resistant textures."
+  },
+  {
+    "id": 470,
+    "domain": "alters_hair_colour",
+    "front": "How is brassiness corrected if the hair lifted adequately?",
+    "back": "With a blue-based or ash-based toner applied to neutralize the specific warmth present, following the same complementary logic used after initial lightening. This addresses a fading or formulation issue."
+  },
+  {
+    "id": 471,
+    "domain": "cuts_hair",
+    "front": "What tendency describes typical men's cutting?",
+    "back": "Men's cutting tends to rely more on clipper work, including clipper-over-comb and guard-based fades or tapers. It also tends to sit closer to the head shape with more emphasis on defined hairlines and necklines."
+  },
+  {
+    "id": 472,
+    "domain": "alters_hair_colour",
+    "front": "Why does brassiness return weeks after a successful service?",
+    "back": "Toners fade faster than the underlying lift, letting the warm undertone reassert itself. This is a fading and maintenance issue fixed with a purple or blue-toned shampoo and a maintenance toning schedule, not by reformulating the whole service."
+  },
+  {
+    "id": 473,
+    "domain": "cuts_hair",
+    "front": "What tendency describes typical women's cutting?",
+    "back": "Women's cutting relies more on shear work across a wider range of lengths and elevations. Layering and texturizing are used extensively to build movement and volume rather than close clipper detail."
+  },
+  {
+    "id": 474,
+    "domain": "alters_hair_colour",
+    "front": "What is lightening powder chemically?",
+    "back": "An alkaline persulfate-based powder, typically containing ammonium, potassium, or sodium persulfate along with other alkaline boosters, mixed with hydrogen peroxide developer. The reaction diffuses and disperses melanin inside the hair shaft."
+  },
+  {
+    "id": 475,
+    "domain": "cuts_hair",
+    "front": "Are men's and women's cutting techniques strictly separate?",
+    "back": "No, they are general tendencies rather than fixed rules. A short pixie cut may use heavy clipper-over-comb work, and a longer men's style may be built mainly with shears and razor."
+  },
+  {
+    "id": 476,
+    "domain": "alters_hair_colour",
+    "front": "What does the developer supply to the lightening reaction?",
+    "back": "The oxygen that drives the reaction which diffuses and disperses melanin inside the hair shaft. Without it the lightener does not lift the hair."
+  },
+  {
+    "id": 477,
+    "domain": "cuts_hair",
+    "front": "What is the standard direction for cutting beard growth with clippers?",
+    "back": "Clippers generally move with the natural direction of the beard's growth rather than against it. Cutting against the grain increases the risk of pulling and an uneven, uncomfortable result."
+  },
+  {
+    "id": 478,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between an off-scalp and an on-scalp lightener?",
+    "back": "An off-scalp formula is a stronger, more highly aerated powder for foiled highlights or balayage on the mid-lengths and ends, away from the skin. An on-scalp formula is a gentler, creamier lightener buffered for direct scalp contact, used for a full head blonding service or a root-to-end lightening retouch."
+  },
+  {
+    "id": 479,
+    "domain": "cuts_hair",
+    "front": "What order do beard trims usually follow?",
+    "back": "The overall bulk length is brought to an even level with a guard first. The edges are then refined with a trimmer along the cheek line, neckline, and moustache border."
+  },
+  {
+    "id": 480,
+    "domain": "alters_hair_colour",
+    "front": "What is a safety error made when choosing a lightening powder?",
+    "back": "Assuming any lightening powder is automatically safe for scalp contact. An off-scalp powder is more likely to cause scalp irritation, so the stylist must check whether the product is rated for on-scalp use before applying it at the scalp."
+  },
+  {
+    "id": 481,
+    "domain": "cuts_hair",
+    "front": "How is symmetry checked during a beard trim?",
+    "back": "Both sides of a beard are compared against the centre of the chin and against each other repeatedly throughout the service. This matters because facial hair asymmetry is highly visible at conversational distance."
+  },
+  {
+    "id": 482,
+    "domain": "alters_hair_colour",
+    "front": "What is colour removal or decolourizing?",
+    "back": "A distinct service that breaks down the artificial colour molecules deposited by a previous colour service so they can be rinsed out. A colour reducer targets synthetic dye and generally has little effect on the hair's own natural melanin."
+  },
+  {
+    "id": 483,
+    "domain": "cuts_hair",
+    "front": "What happens once graduation elevation is raised from low to moderate?",
+    "back": "Raising the elevation on a graduated bob softens the stacked perimeter and blends it more gradually into the longer top length. A lower elevation, by contrast, keeps the stack tight and heavy at the nape."
+  },
+  {
+    "id": 484,
+    "domain": "alters_hair_colour",
+    "front": "How does colour removal differ from lightening?",
+    "back": "Colour removal targets artificial dye deposited by a previous service, while lightening powder mixed with developer works primarily on natural melanin to lift the hair's natural level, lightening artificial colour only incidentally. The two are not interchangeable."
+  },
+  {
+    "id": 485,
+    "domain": "cuts_hair",
+    "front": "What natural feature complicates graduation at the nape?",
+    "back": "A cowlick or other irregular natural growth pattern at the nape can affect how a stacked perimeter settles once styled. The stylist should check the natural fall in that area before finalizing the graduation angle."
+  },
+  {
+    "id": 486,
+    "domain": "alters_hair_colour",
+    "front": "Why is a lightener the wrong tool for stripping unwanted artificial colour?",
+    "back": "It is less targeted and puts more chemical stress on the hair than a purpose-built colour remover. A client who dyed their hair too dark, or got an unwanted tone from artificial pigment, is a colour removal case first."
+  },
+  {
+    "id": 487,
+    "domain": "cuts_hair",
+    "front": "What does a blunt one-length cut do to fine, thin hair?",
+    "back": "A solid, weighted perimeter with no layering can give fine hair the appearance of greater density. This is because the uncut weight collects at the hemline instead of being thinned away by layering."
+  },
+  {
+    "id": 488,
+    "domain": "alters_hair_colour",
+    "front": "What does hair that will not lift despite a strong lightener signal?",
+    "back": "Underlying artificial tint. Permanent artificial colour resists further lightening because synthetic dye molecules sit differently in the cortex than natural melanin does, so a colour reducer is the correct tool rather than a stronger lightener."
+  },
+  {
+    "id": 489,
+    "domain": "cuts_hair",
+    "front": "What must be true of every section in a one-length cut?",
+    "back": "Every section of a one-length cut must be combed to its natural fall before cutting. It is then cut with zero elevation so it falls to the same hemline as the sections around it."
+  },
+  {
+    "id": 490,
+    "domain": "alters_hair_colour",
+    "front": "What is banding?",
+    "back": "A visible horizontal line or stripe of a different colour, most often where new natural regrowth meets previously coloured hair, or where a retouch application overlapped onto already-coloured hair and deposited extra pigment there. It happens when the line between treated and untreated hair is sharp rather than gradual."
+  },
+  {
+    "id": 491,
+    "domain": "cuts_hair",
+    "front": "What is the risk of checking tension only once per section in long layering?",
+    "back": "A section pulled with inconsistent tension compared with its neighbours can end up shorter or longer than intended once released. Checking tension the same way on every section helps keep the finished length even."
+  },
+  {
+    "id": 492,
+    "domain": "alters_hair_colour",
+    "front": "Why does banding become more visible over multiple retouch cycles?",
+    "back": "If the same overlap happens every time, the band builds up at the same spot. The line between treated and untreated hair stays sharp rather than gradual, so it becomes more noticeable across several retouches."
+  },
+  {
+    "id": 493,
+    "domain": "cuts_hair",
+    "front": "Where is the first guideline usually placed in a long layered cut?",
+    "back": "The first guideline in a long layered cut is typically established at the crown or the front hairline. The rest of the interior sections are then elevated and blended up to meet that reference point."
+  },
+  {
+    "id": 494,
+    "domain": "alters_hair_colour",
+    "front": "How is banding corrected?",
+    "back": "By softening the hard line with root smudging using a demi-permanent shade close to the surrounding colour. In stubborn cases the stylist works down from the root in smaller sections, feathering the timing so each band processes for a shorter time than the one above it."
+  },
+  {
+    "id": 495,
+    "domain": "cuts_hair",
+    "front": "What is a common mistake when trying to fix an uneven cut?",
+    "back": "Trying to bring a shorter section up to match a longer one is not possible, since hair cannot be added back. The correct fix always brings the longer section down to match the shorter one."
+  },
+  {
+    "id": 496,
+    "domain": "alters_hair_colour",
+    "front": "What is colour buildup and how is it prevented and corrected?",
+    "back": "Repeated applications of permanent colour on the mid-lengths and ends, without a matching retouch schedule at the root, leave those sections progressively darker than the hair coming in above them. It is prevented by disciplined retouch application that stays off previously coloured hair and corrected with a colour reducer or bleach bath."
+  },
+  {
+    "id": 497,
+    "domain": "alters_hair_colour",
+    "front": "How does porous hair behave when colour is applied?",
+    "back": "Porous hair has a raised cuticle and lost pigment structure, so it absorbs colour unevenly and often too fast. It grabs colour heavily at the most damaged points along the strand and releases it quickly, which produces patchy results if a target shade is applied directly onto it."
+  },
+  {
+    "id": 498,
+    "domain": "alters_hair_colour",
+    "front": "What is a colour filler and why is it used before a corrective colour?",
+    "back": "It is applied to porous, damaged hair to redeposit missing pigment and even out porosity so the hair accepts the next colour uniformly, usually in a warm gold or copper base. Skipping it and going straight to the target shade is a common cause of a corrective service turning out patchy or fading unevenly within days."
+  },
+  {
+    "id": 499,
+    "domain": "alters_hair_colour",
+    "front": "What is the difference between a strand test and a predisposition test?",
+    "back": "A strand test shows how a colour formula develops on the client's hair before a full service, checking lift or tone. A predisposition (patch) test checks for an allergic skin reaction to the colour product and is done well before the service. They are not substitutes for each other."
+  },
+  {
+    "id": 500,
+    "domain": "alters_hair_colour",
+    "front": "What chemical history must be asked about during a colour consultation?",
+    "back": "Henna and metallic dye history, along with any recent chemical texture service. Henna coats and can penetrate the shaft and is not reliably removed by a normal colour or lightening service, and metallic salts can react with hydrogen peroxide and cause heat, discolouration, or severe breakage, so a strand test or metallic salt test is a safety step before the service."
+  }
+]
